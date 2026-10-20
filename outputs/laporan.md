@@ -1,6 +1,6 @@
 # Prakiraan Cuaca Indonesia
 
-Analisis 19 kota, 375 slot prakiraan 3 jam (20 Okt 2026 sampai 22 Okt 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-10-20 18:41 UTC.
+Analisis 19 kota, 375 slot prakiraan 3 jam (20 Okt 2026 sampai 22 Okt 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-10-20 23:58 UTC.
 
 ## Angka kunci
 
@@ -33,7 +33,7 @@ Analisis 19 kota, 375 slot prakiraan 3 jam (20 Okt 2026 sampai 22 Okt 2026). Sum
 | Makassar | 0.2 | 6 | 0 | 25-32 | 65 | 27.7 | Cerah |
 | Denpasar | 0.1 | 3 | 0 | 24-31 | 76 | 17.8 | Cerah |
 | Bandung | 0.0 | 0 | 0 | 20-32 | 58 | 11.0 | Cerah |
-| Surabaya | 0.0 | 0 | 0 | 26-37 | 56 | 33.0 | Cerah |
+| Surabaya | 0.0 | 0 | 0 | 26-37 | 55 | 33.0 | Cerah |
 
 ## Kondisi yang diprediksi
 
@@ -41,8 +41,8 @@ Analisis 19 kota, 375 slot prakiraan 3 jam (20 Okt 2026 sampai 22 Okt 2026). Sum
 |---|---|---|---|
 | Cerah | 165 | 44.0 | 15 |
 | Udara Kabur | 116 | 30.9 | 10 |
-| Cerah Berawan | 41 | 10.9 | 14 |
-| Berawan | 36 | 9.6 | 11 |
+| Cerah Berawan | 42 | 11.2 | 14 |
+| Berawan | 35 | 9.3 | 10 |
 | Hujan Ringan | 12 | 3.2 | 3 |
 | Hujan Sedang | 2 | 0.5 | 2 |
 | Hujan Petir | 1 | 0.3 | 1 |
@@ -55,16 +55,16 @@ Slot yang melewati ambang hujan lebat (>= 20 mm/3 jam), angin kencang (>= 30 km/
 
 - **Kupang** 21 Oct 15:00: angin 37 km/jam (Udara Kabur)
 - **Kupang** 21 Oct 18:00: angin 37 km/jam (Udara Kabur)
-- **Surabaya** 21 Oct 14:00: angin 33 km/jam, suhu 37 C (Cerah)
-- **Surabaya** 20 Oct 14:00: angin 32 km/jam, suhu 37 C (Cerah)
-- **Surabaya** 22 Oct 11:00: angin 31 km/jam, suhu 36 C (Cerah)
-- **Surabaya** 22 Oct 14:00: angin 31 km/jam, suhu 36 C (Cerah)
+- **Surabaya** 21 Oct 13:00: angin 33 km/jam, suhu 37 C (Cerah)
+- **Surabaya** 20 Oct 13:00: angin 32 km/jam, suhu 37 C (Cerah)
+- **Surabaya** 22 Oct 13:00: angin 31 km/jam, suhu 36 C (Cerah)
+- **Surabaya** 22 Oct 16:00: angin 31 km/jam, suhu 34 C (Cerah Berawan)
 - **Palembang** 21 Oct 17:00: suhu 34 C (Udara Kabur)
 - **Palembang** 22 Oct 17:00: suhu 35 C (Udara Kabur)
+- **Surabaya** 21 Oct 16:00: suhu 34 C (Cerah)
+- **Surabaya** 20 Oct 16:00: suhu 35 C (Cerah)
 - **Pontianak** 21 Oct 14:00: suhu 34 C (Hujan Sedang)
 - **Bandar Lampung** 22 Oct 11:00: suhu 34 C (Cerah Berawan)
-- **Bandar Lampung** 20 Oct 14:00: suhu 34 C (Cerah)
-- **Semarang** 22 Oct 11:00: suhu 34 C (Cerah)
 
 ## Gambar
 
