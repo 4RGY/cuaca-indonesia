@@ -1,0 +1,192 @@
+{
+  "Banda Aceh": {
+    "adm4": "1171012001",
+    "kecamatan": "Baiturrahman",
+    "kelurahan": "Kampung Baru",
+    "provinsi": "Aceh",
+    "kotkab": "Kota Banda Aceh",
+    "lat": 5.5523732836,
+    "lon": 95.3170348462,
+    "terverifikasi": true
+  },
+  "Medan": {
+    "adm4": "1271011001",
+    "kecamatan": "Medan Kota",
+    "kelurahan": "Pasar Baru",
+    "provinsi": "Sumatera Utara",
+    "kotkab": "Kota Medan",
+    "lat": 3.583985458,
+    "lon": 98.6847407431,
+    "terverifikasi": true
+  },
+  "Padang": {
+    "adm4": "1371011001",
+    "kecamatan": "Padang Selatan",
+    "kelurahan": "Belakang Pondok",
+    "provinsi": "Sumatera Barat",
+    "kotkab": "Kota Padang",
+    "lat": -0.9556523519,
+    "lon": 100.3624567146,
+    "terverifikasi": true
+  },
+  "Pekanbaru": {
+    "adm4": "1471011007",
+    "kecamatan": "Sukajadi",
+    "kelurahan": "Sukajadi",
+    "provinsi": "Riau",
+    "kotkab": "Kota Pekanbaru",
+    "lat": 0.5227162477,
+    "lon": 101.4389621363,
+    "terverifikasi": true
+  },
+  "Palembang": {
+    "adm4": "1671011001",
+    "kecamatan": "Ilir Barat Dua",
+    "kelurahan": "Tiga-puluh-lima Ilir",
+    "provinsi": "Sumatera Selatan",
+    "kotkab": "Kota Palembang",
+    "lat": -3.0080242465,
+    "lon": 104.7436045632,
+    "terverifikasi": true
+  },
+  "Bandar Lampung": {
+    "adm4": "1871011003",
+    "kecamatan": "Kedaton",
+    "kelurahan": "Kedaton",
+    "provinsi": "Lampung",
+    "kotkab": "Kota Bandar Lampung",
+    "lat": -5.3833538112,
+    "lon": 105.2634916252,
+    "terverifikasi": true
+  },
+  "Jakarta Pusat": {
+    "adm4": "3171011001",
+    "kecamatan": "Gambir",
+    "kelurahan": "Gambir",
+    "provinsi": "DKI Jakarta",
+    "kotkab": "Kota Adm. Jakarta Pusat",
+    "lat": -6.1763842693,
+    "lon": 106.8267073562,
+    "terverifikasi": true
+  },
+  "Bandung": {
+    "adm4": "3273011001",
+    "kecamatan": "Sukasari",
+    "kelurahan": "Sukarasa",
+    "provinsi": "Jawa Barat",
+    "kotkab": "Kota Bandung",
+    "lat": -6.8742274703,
+    "lon": 107.5853961716,
+    "terverifikasi": true
+  },
+  "Semarang": {
+    "adm4": "3374011001",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Miroto",
+    "provinsi": "Jawa Tengah",
+    "kotkab": "Kota Semarang",
+    "lat": -6.9837101856,
+    "lon": 110.4186876715,
+    "terverifikasi": true
+  },
+  "Surabaya": {
+    "adm4": "3578011001",
+    "kecamatan": "Karang Pilang",
+    "kelurahan": "Karang Pilang",
+    "provinsi": "Jawa Timur",
+    "kotkab": "Kota Surabaya",
+    "lat": -7.3405771727,
+    "lon": 112.6899367157,
+    "terverifikasi": true
+  },
+  "Denpasar": {
+    "adm4": "5171011001",
+    "kecamatan": "Denpasar Selatan",
+    "kelurahan": "Serangan",
+    "provinsi": "Bali",
+    "kotkab": "Kota Denpasar",
+    "lat": -8.7362586735,
+    "lon": 115.2321098598,
+    "terverifikasi": true
+  },
+  "Mataram": {
+    "adm4": "5271011004",
+    "kecamatan": "Ampenan",
+    "kelurahan": "Ampenan Selatan",
+    "provinsi": "Nusa Tenggara Barat",
+    "kotkab": "Kota Mataram",
+    "lat": -8.5808540035,
+    "lon": 116.0755101676,
+    "terverifikasi": true
+  },
+  "Kupang": {
+    "adm4": "5371021002",
+    "kecamatan": "Maulafa",
+    "kelurahan": "Maulafa",
+    "provinsi": "Nusa Tenggara Timur",
+    "kotkab": "Kota Kupang",
+    "lat": -10.1876960621,
+    "lon": 123.6229129981,
+    "terverifikasi": true
+  },
+  "Pontianak": {
+    "adm4": "6171011002",
+    "kecamatan": "Pontianak Selatan",
+    "kelurahan": "Benuamelayu Laut",
+    "provinsi": "Kalimantan Barat",
+    "kotkab": "Kota Pontianak",
+    "lat": -0.0356530493,
+    "lon": 109.3488466757,
+    "terverifikasi": true
+  },
+  "Balikpapan": {
+    "adm4": "6471011001",
+    "kecamatan": "Balikpapan Timur",
+    "kelurahan": "Manggar",
+    "provinsi": "Kalimantan Timur",
+    "kotkab": "Kota Balikpapan",
+    "lat": -1.2144233439,
+    "lon": 116.9377421803,
+    "terverifikasi": true
+  },
+  "Manado": {
+    "adm4": "7171011001",
+    "kecamatan": "Bunaken",
+    "kelurahan": "Molas",
+    "provinsi": "Sulawesi Utara",
+    "kotkab": "Kota Manado",
+    "lat": 1.5443779179,
+    "lon": 124.8417447349,
+    "terverifikasi": true
+  },
+  "Makassar": {
+    "adm4": "7371011006",
+    "kecamatan": "Mariso",
+    "kelurahan": "Mariso",
+    "provinsi": "Sulawesi Selatan",
+    "kotkab": "Kota Makassar",
+    "lat": -5.1590599376,
+    "lon": 119.4096620468,
+    "terverifikasi": true
+  },
+  "Ambon": {
+    "adm4": "8171011006",
+    "kecamatan": "Nusaniwe",
+    "kelurahan": "Nusaniwe",
+    "provinsi": "Maluku",
+    "kotkab": "Kota Ambon",
+    "lat": -3.7113164651,
+    "lon": 128.1564470536,
+    "terverifikasi": true
+  },
+  "Jayapura": {
+    "adm4": "9171011001",
+    "kecamatan": "Jayapura Utara",
+    "kelurahan": "Gurabesi",
+    "provinsi": "Papua",
+    "kotkab": "Kota Jayapura",
+    "lat": -2.5264449691,
+    "lon": 140.6568889518,
+    "terverifikasi": true
+  }
+}

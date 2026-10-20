@@ -1,0 +1,26 @@
+{
+  "dibuat_utc": "2026-10-20 18:41 UTC",
+  "periode_mulai": "20 Okt 2026",
+  "periode_selesai": "22 Okt 2026",
+  "horizon_jam": 60,
+  "jumlah_kota": 19,
+  "jumlah_slot": 375,
+  "terbasah": [
+    "Medan",
+    19.6
+  ],
+  "terkering": [
+    "Surabaya",
+    0.0
+  ],
+  "terpanas": [
+    "Palembang",
+    37.0
+  ],
+  "terdingin": [
+    "Bandung",
+    20.0
+  ],
+  "kota_tanpa_hujan": 2,
+  "peringatan": 12
+}

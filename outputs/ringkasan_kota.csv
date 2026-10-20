@@ -1,0 +1,20 @@
+kota,provinsi,kecamatan,curah_total_mm,slot_hujan,slot_lebat,suhu_maks,suhu_min,suhu_terasa_maks,kelembapan_rata,angin_maks,kondisi_dominan,jumlah_slot,jam_hujan,selisih_suhu
+Medan,Sumatera Utara,Medan Kota,19.6,12,0,31,23,36.0,89.0,9.8,Berawan,20,36,8
+Pontianak,Kalimantan Barat,Pontianak Selatan,15.4,12,0,34,24,41.7,91.0,9.5,Udara Kabur,20,36,10
+Banda Aceh,Aceh,Baiturrahman,12.8,16,0,30,24,35.2,87.0,15.6,Berawan,20,48,6
+Padang,Sumatera Barat,Padang Selatan,4.5,15,0,30,25,38.0,85.0,7.6,Cerah,20,45,5
+Jakarta Pusat,DKI Jakarta,Gambir,3.8,8,0,33,26,36.5,69.0,12.2,Cerah,20,24,7
+Ambon,Maluku,Nusaniwe,1.8,12,0,30,24,32.9,83.0,13.5,Udara Kabur,19,36,6
+Kupang,Nusa Tenggara Timur,Maulafa,1.4,4,0,33,24,35.4,64.0,37.0,Udara Kabur,20,12,9
+Bandar Lampung,Lampung,Kedaton,1.1,7,0,34,23,38.3,75.0,16.5,Cerah,20,21,11
+Semarang,Jawa Tengah,Semarang Tengah,1.0,6,0,36,26,41.4,64.0,12.1,Cerah,20,18,10
+Mataram,Nusa Tenggara Barat,Ampenan,0.8,4,0,31,23,33.1,76.0,27.8,Cerah,19,12,8
+Balikpapan,Kalimantan Timur,Balikpapan Timur,0.7,5,0,31,27,33.4,77.0,21.7,Udara Kabur,20,15,4
+Pekanbaru,Riau,Sukajadi,0.6,2,0,32,24,37.6,84.0,11.1,Udara Kabur,20,6,8
+Jayapura,Papua,Jayapura Utara,0.4,4,0,29,23,32.2,83.0,13.8,Udara Kabur,19,12,6
+Palembang,Sumatera Selatan,Ilir Barat Dua,0.3,3,0,37,25,38.4,59.0,16.7,Udara Kabur,20,9,12
+Manado,Sulawesi Utara,Bunaken,0.3,2,0,32,24,37.0,74.0,9.8,Cerah,19,6,8
+Makassar,Sulawesi Selatan,Mariso,0.2,2,0,32,25,34.8,65.0,27.7,Cerah,20,6,7
+Denpasar,Bali,Denpasar Selatan,0.1,1,0,31,24,34.1,76.0,17.8,Cerah,19,3,7
+Bandung,Jawa Barat,Sukasari,0.0,0,0,32,20,31.5,58.0,11.0,Cerah,20,0,12
+Surabaya,Jawa Timur,Karang Pilang,0.0,0,0,37,26,38.3,56.0,33.0,Cerah,20,0,11
