@@ -1,26 +1,26 @@
 {
-  "dibuat_utc": "2026-10-23 23:53 UTC",
-  "periode_mulai": "24 Okt 2026",
-  "periode_selesai": "26 Okt 2026",
-  "horizon_jam": 66,
+  "dibuat_utc": "2026-10-24 23:22 UTC",
+  "periode_mulai": "25 Okt 2026",
+  "periode_selesai": "27 Okt 2026",
+  "horizon_jam": 51,
   "jumlah_kota": 19,
-  "jumlah_slot": 416,
+  "jumlah_slot": 338,
   "terbasah": [
-    "Bandung",
-    28.2
+    "Pekanbaru",
+    15.2
   ],
   "terkering": [
-    "Kupang",
-    0.3
+    "Surabaya",
+    0.0
   ],
   "terpanas": [
     "Surabaya",
-    36.0
+    35.0
   ],
   "terdingin": [
     "Bandung",
-    20.0
+    19.0
   ],
-  "kota_tanpa_hujan": 0,
-  "peringatan": 12
+  "kota_tanpa_hujan": 3,
+  "peringatan": 4
 }
