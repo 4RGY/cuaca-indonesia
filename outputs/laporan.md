@@ -1,59 +1,66 @@
 # Prakiraan Cuaca Indonesia
 
-Analisis 19 kota, 338 slot prakiraan 3 jam (25 Okt 2026 sampai 27 Okt 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-10-24 23:22 UTC.
+Analisis 19 kota, 333 slot prakiraan 3 jam (26 Okt 2026 sampai 28 Okt 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-10-25 23:20 UTC.
 
 ## Angka kunci
 
-- Paling basah: **Pekanbaru** dengan 15.2 mm dalam 51 jam.
-- Paling kering: **Surabaya** dengan 0.0 mm.
-- Suhu tertinggi: **Surabaya** 35 C.
+- Paling basah: **Medan** dengan 9.2 mm dalam 51 jam.
+- Paling kering: **Makassar** dengan 0.0 mm.
+- Suhu tertinggi: **Surabaya** 36 C.
 - Suhu terendah: **Bandung** 19 C.
-- Rentang suhu antar kota: 16.0 C (selisih harian rata-rata 7.1 C).
-- Kota tanpa hujan sama sekali: 3 dari 19.
+- Rentang suhu antar kota: 17.0 C (selisih harian rata-rata 7.1 C).
+- Kota tanpa hujan sama sekali: 1 dari 19.
 
 ## Ringkasan per kota
 
 | Kota | Hujan 51 jam (mm) | Jam hujan | Slot lebat | Suhu (C) | RH (%) | Angin maks (km/jam) | Kondisi dominan |
 |---|---|---|---|---|---|---|---|
-| Pekanbaru | 15.2 | 48 | 0 | 24-31 | 91 | 9.1 | Udara Kabur |
-| Bandung | 14.7 | 33 | 0 | 19-27 | 89 | 6.7 | Berawan |
-| Banda Aceh | 9.2 | 27 | 0 | 24-30 | 85 | 18.3 | Berawan |
-| Pontianak | 9.1 | 36 | 0 | 23-33 | 92 | 9.2 | Udara Kabur |
-| Medan | 7.6 | 42 | 0 | 23-30 | 91 | 6.3 | Berawan |
-| Padang | 4.7 | 27 | 0 | 25-27 | 84 | 7.1 | Udara Kabur |
-| Ambon | 4.5 | 30 | 0 | 24-30 | 89 | 8.3 | Udara Kabur |
-| Semarang | 4.2 | 24 | 0 | 25-33 | 74 | 10.2 | Berawan |
-| Balikpapan | 3.4 | 33 | 0 | 24-30 | 84 | 12.8 | Udara Kabur |
-| Palembang | 3.3 | 24 | 0 | 24-32 | 86 | 10.7 | Udara Kabur |
-| Jakarta Pusat | 3.2 | 36 | 0 | 25-31 | 81 | 10.5 | Berawan |
-| Makassar | 2.6 | 27 | 0 | 25-29 | 82 | 14.9 | Berawan |
-| Jayapura | 2.4 | 27 | 0 | 23-28 | 87 | 10.6 | Udara Kabur |
-| Bandar Lampung | 1.9 | 18 | 0 | 24-31 | 77 | 19.5 | Berawan |
-| Kupang | 0.6 | 9 | 0 | 24-32 | 70 | 16.5 | Berawan |
-| Manado | 0.1 | 3 | 0 | 24-34 | 76 | 9.9 | Udara Kabur |
-| Denpasar | 0.0 | 0 | 0 | 26-33 | 82 | 20.9 | Berawan |
-| Mataram | 0.0 | 0 | 0 | 24-32 | 81 | 11.7 | Berawan |
-| Surabaya | 0.0 | 0 | 0 | 24-35 | 66 | 13.1 | Berawan |
+| Medan | 9.2 | 36 | 0 | 23-30 | 92 | 7.5 | Cerah Berawan |
+| Bandung | 8.2 | 18 | 0 | 19-26 | 88 | 7.2 | Berawan |
+| Pontianak | 7.1 | 24 | 0 | 24-30 | 93 | 10.0 | Udara Kabur |
+| Jakarta Pusat | 6.6 | 33 | 0 | 24-30 | 83 | 11.6 | Berawan |
+| Balikpapan | 5.9 | 36 | 0 | 24-30 | 84 | 12.8 | Udara Kabur |
+| Pekanbaru | 5.3 | 12 | 0 | 23-31 | 89 | 6.5 | Cerah Berawan |
+| Banda Aceh | 4.7 | 27 | 0 | 24-28 | 88 | 10.2 | Berawan |
+| Semarang | 4.7 | 24 | 0 | 25-34 | 83 | 11.7 | Cerah |
+| Palembang | 4.7 | 18 | 0 | 24-31 | 85 | 10.8 | Udara Kabur |
+| Bandar Lampung | 3.7 | 18 | 0 | 24-30 | 80 | 17.8 | Berawan |
+| Ambon | 2.7 | 24 | 0 | 23-30 | 88 | 11.6 | Udara Kabur |
+| Denpasar | 2.1 | 9 | 0 | 25-32 | 85 | 24.5 | Berawan |
+| Mataram | 1.7 | 15 | 0 | 24-32 | 81 | 27.8 | Cerah |
+| Surabaya | 1.5 | 9 | 0 | 24-36 | 78 | 11.5 | Berawan |
+| Padang | 1.4 | 21 | 0 | 25-28 | 83 | 8.0 | Berawan |
+| Manado | 0.9 | 9 | 0 | 24-35 | 78 | 8.2 | Cerah |
+| Jayapura | 0.6 | 6 | 0 | 23-26 | 89 | 11.2 | Udara Kabur |
+| Kupang | 0.2 | 3 | 0 | 25-34 | 70 | 18.1 | Cerah |
+| Makassar | 0.0 | 0 | 0 | 26-35 | 79 | 15.8 | Berawan |
 
 ## Kondisi yang diprediksi
 
 | Kondisi | Slot | Porsi (%) | Jumlah kota |
 |---|---|---|---|
-| Berawan | 135 | 39.9 | 15 |
-| Udara Kabur | 118 | 34.9 | 10 |
-| Cerah | 32 | 9.5 | 10 |
-| Cerah Berawan | 30 | 8.9 | 12 |
-| Hujan Ringan | 22 | 6.5 | 8 |
-| Hujan Petir | 1 | 0.3 | 1 |
+| Berawan | 104 | 31.2 | 12 |
+| Udara Kabur | 80 | 24.0 | 9 |
+| Cerah | 66 | 19.8 | 11 |
+| Cerah Berawan | 62 | 18.6 | 14 |
+| Hujan Ringan | 19 | 5.7 | 11 |
+| Kabut/Asap | 2 | 0.6 | 1 |
 
 ## Peringatan dini
 
 Slot yang melewati ambang hujan lebat (>= 20 mm/3 jam), angin kencang (>= 30 km/jam), atau suhu ekstrem (>= 34 C):
 
-- **Surabaya** 25 Oct 12:00: suhu 35 C (Berawan)
-- **Surabaya** 25 Oct 15:00: suhu 34 C (Berawan)
-- **Surabaya** 26 Oct 12:00: suhu 34 C (Berawan)
-- **Manado** 26 Oct 16:00: suhu 34 C (Cerah)
+- **Kupang** 28 Oct 14:00: suhu 34 C (Cerah Berawan)
+- **Kupang** 27 Oct 14:00: suhu 34 C (Cerah)
+- **Semarang** 26 Oct 12:00: suhu 34 C (Cerah Berawan)
+- **Makassar** 27 Oct 14:00: suhu 35 C (Berawan)
+- **Makassar** 28 Oct 14:00: suhu 35 C (Cerah)
+- **Surabaya** 26 Oct 12:00: suhu 36 C (Berawan)
+- **Manado** 26 Oct 13:00: suhu 35 C (Cerah)
+- **Kupang** 28 Oct 11:00: suhu 34 C (Cerah Berawan)
+- **Kupang** 26 Oct 14:00: suhu 34 C (Berawan)
+- **Makassar** 26 Oct 14:00: suhu 34 C (Berawan)
+- **Manado** 27 Oct 13:00: suhu 34 C (Cerah)
 
 ## Gambar
 

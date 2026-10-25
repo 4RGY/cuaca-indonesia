@@ -1,339 +1,334 @@
 kota,provinsi,kecamatan,desa,adm4,waktu_lokal,suhu_c,kelembapan,curah_hujan_mm,tutupan_awan,angin_kmh,arah_angin,kondisi,suhu_terasa_c,kategori_hujan,tanggal
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 08:00:00,27,83,0.1,58,6.8,SE,Udara Kabur,31.4,ringan,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 11:00:00,30,73,0.8,99,8.0,SE,Udara Kabur,34.6,ringan,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 14:00:00,30,73,0.7,75,8.1,SE,Udara Kabur,34.6,ringan,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 17:00:00,27,89,0.4,90,3.7,SE,Udara Kabur,32.7,ringan,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 20:00:00,26,95,0.1,100,3.8,NE,Udara Kabur,31.8,ringan,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-25 23:00:00,25,98,0.0,96,4.3,N,Udara Kabur,30.4,kering,2026-10-25
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 02:00:00,24,98,0.0,100,2.3,NW,Udara Kabur,29.2,kering,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 05:00:00,24,98,0.0,100,1.9,NW,Udara Kabur,29.3,kering,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 08:00:00,26,88,0.1,97,3.5,SE,Udara Kabur,31.1,ringan,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 11:00:00,28,76,0.7,83,6.3,SE,Udara Kabur,32.2,ringan,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 14:00:00,28,82,0.9,82,8.3,SE,Udara Kabur,32.6,ringan,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 17:00:00,27,90,0.6,86,0.7,NW,Udara Kabur,33.4,ringan,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 20:00:00,25,97,0.0,69,1.4,NE,Udara Kabur,30.8,kering,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 23:00:00,24,97,0.0,87,3.2,NE,Udara Kabur,28.9,kering,2026-10-26
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 02:00:00,24,97,0.0,100,3.2,NE,Udara Kabur,28.9,kering,2026-10-27
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 05:00:00,24,97,0.0,99,2.7,NE,Udara Kabur,29.0,kering,2026-10-27
-Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 08:00:00,26,90,0.1,84,7.2,E,Udara Kabur,30.6,ringan,2026-10-27
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 07:00:00,27,87,0.1,100,4.3,N,Udara Kabur,32.4,ringan,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 10:00:00,30,73,0.0,99,10.7,E,Udara Kabur,34.1,kering,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 13:00:00,28,80,0.0,46,10.1,E,Cerah,32.0,kering,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 16:00:00,30,75,0.0,25,11.3,NE,Cerah,34.3,kering,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 19:00:00,29,80,0.1,46,8.8,N,Cerah,33.8,ringan,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-25 22:00:00,28,85,0.0,39,9.1,N,Cerah,32.8,kering,2026-10-25
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 01:00:00,26,91,0.0,62,10.2,NW,Cerah Berawan,30.1,kering,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 04:00:00,26,94,0.0,59,6.3,N,Cerah,31.2,kering,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 07:00:00,26,90,0.2,61,7.5,N,Udara Kabur,30.5,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 10:00:00,29,73,0.3,98,11.4,NE,Udara Kabur,32.4,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 13:00:00,28,82,0.3,98,12.8,NE,Udara Kabur,31.7,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 16:00:00,30,75,0.2,47,12.4,NE,Udara Kabur,34.1,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 19:00:00,28,83,0.2,93,11.0,NE,Udara Kabur,32.2,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 22:00:00,28,83,0.1,97,12.1,N,Berawan,32.0,ringan,2026-10-26
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 01:00:00,27,89,0.2,92,9.8,N,Udara Kabur,31.5,ringan,2026-10-27
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 04:00:00,25,94,1.2,99,2.8,E,Hujan Ringan,30.3,ringan,2026-10-27
-Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 07:00:00,24,94,0.5,81,11.7,W,Udara Kabur,27.0,ringan,2026-10-27
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 06:00:00,25,93,1.1,99,9.1,S,Hujan Ringan,28.9,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 09:00:00,27,87,0.3,100,18.3,SW,Berawan,29.6,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 12:00:00,26,90,0.8,100,15.2,S,Berawan,29.0,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 15:00:00,27,81,0.6,100,17.3,SW,Berawan,29.1,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 18:00:00,25,94,2.1,100,14.6,S,Hujan Ringan,28.0,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-25 21:00:00,25,93,0.6,100,17.4,SW,Berawan,27.3,ringan,2026-10-25
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 00:00:00,25,93,0.5,99,10.5,S,Berawan,28.7,ringan,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 03:00:00,24,93,2.1,100,6.2,SW,Hujan Ringan,27.9,ringan,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 06:00:00,24,91,1.1,100,5.8,S,Hujan Ringan,27.8,ringan,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 09:00:00,27,83,0.0,99,9.8,S,Berawan,30.8,kering,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 12:00:00,30,65,0.0,100,17.8,SW,Berawan,31.6,kering,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 15:00:00,28,70,0.0,100,11.8,S,Berawan,30.4,kering,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 18:00:00,27,78,0.0,100,6.2,S,Berawan,30.9,kering,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 21:00:00,26,82,0.0,100,7.9,S,Berawan,29.5,kering,2026-10-26
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 00:00:00,26,85,0.0,100,5.5,S,Berawan,30.3,kering,2026-10-27
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 03:00:00,25,82,0.0,100,3.4,SE,Berawan,28.9,kering,2026-10-27
-Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 06:00:00,25,88,0.0,100,5.2,E,Berawan,29.2,kering,2026-10-27
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 06:00:00,24,86,0.0,100,14.0,S,Berawan,25.7,kering,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 09:00:00,28,68,0.0,100,11.4,SE,Berawan,30.2,kering,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 12:00:00,31,58,0.1,89,13.1,SE,Cerah Berawan,33.0,ringan,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 15:00:00,30,61,0.3,68,19.5,SE,Cerah Berawan,30.7,ringan,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 18:00:00,27,74,0.0,90,19.4,S,Berawan,27.9,kering,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-25 21:00:00,26,80,0.0,100,13.2,S,Berawan,28.3,kering,2026-10-25
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 00:00:00,25,84,0.0,81,10.9,S,Cerah Berawan,27.6,kering,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 03:00:00,25,87,0.2,96,7.7,S,Berawan,28.6,ringan,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 06:00:00,25,88,0.4,98,8.1,S,Berawan,28.6,ringan,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 09:00:00,28,68,0.0,66,9.2,SE,Cerah Berawan,30.7,kering,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 12:00:00,31,59,0.1,69,10.1,SE,Cerah Berawan,33.8,ringan,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 15:00:00,28,73,0.8,97,13.3,S,Berawan,30.5,ringan,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 18:00:00,26,79,0.0,94,14.5,S,Berawan,27.9,kering,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 21:00:00,26,83,0.0,99,13.7,S,Berawan,28.5,kering,2026-10-26
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 00:00:00,25,88,0.0,69,11.3,S,Cerah Berawan,28.0,kering,2026-10-27
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 03:00:00,24,89,0.0,98,9.9,S,Udara Kabur,26.8,kering,2026-10-27
-Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 06:00:00,24,90,0.0,96,8.8,S,Udara Kabur,27.1,kering,2026-10-27
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 06:00:00,20,89,0.0,100,5.2,E,Berawan,21.8,kering,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 09:00:00,25,65,0.0,99,3.4,SE,Berawan,27.1,kering,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 12:00:00,27,60,0.8,100,6.7,N,Berawan,28.7,ringan,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 15:00:00,23,84,2.7,100,1.4,E,Hujan Ringan,26.5,ringan,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 18:00:00,21,95,2.1,100,0.9,SE,Hujan Ringan,24.6,ringan,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-25 21:00:00,21,96,0.4,100,1.7,E,Berawan,24.5,ringan,2026-10-25
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 00:00:00,20,95,0.5,99,0.7,SE,Berawan,23.2,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 03:00:00,20,97,1.0,100,4.3,NE,Hujan Ringan,22.6,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 06:00:00,20,97,0.4,97,2.3,E,Berawan,23.0,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 09:00:00,24,77,0.0,99,5.7,SW,Berawan,26.5,kering,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 12:00:00,24,78,2.8,100,4.4,W,Hujan Ringan,26.8,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 15:00:00,21,94,3.3,100,4.0,SE,Hujan Ringan,23.9,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 18:00:00,21,94,0.5,100,1.5,E,Berawan,24.4,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 21:00:00,21,95,0.2,100,0.5,W,Berawan,24.7,ringan,2026-10-26
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 00:00:00,20,96,0.0,99,0.8,N,Berawan,23.2,kering,2026-10-27
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 03:00:00,19,98,0.0,100,3.6,N,Berawan,21.4,kering,2026-10-27
-Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 06:00:00,19,97,0.0,98,2.5,NE,Berawan,21.5,kering,2026-10-27
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 07:00:00,26,92,0.0,99,4.9,SE,Berawan,31.2,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 10:00:00,29,73,0.0,100,10.5,E,Berawan,32.6,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 13:00:00,33,73,0.0,84,20.9,SE,Cerah Berawan,37.0,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 16:00:00,31,73,0.0,76,15.7,SE,Cerah Berawan,34.7,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 19:00:00,29,78,0.0,92,8.3,E,Berawan,33.7,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-25 22:00:00,28,83,0.0,93,6.4,E,Berawan,33.1,kering,2026-10-25
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 01:00:00,27,87,0.0,99,6.1,SE,Berawan,32.0,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 04:00:00,26,88,0.0,98,3.2,E,Berawan,31.1,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 07:00:00,26,85,0.0,97,8.9,SE,Berawan,29.7,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 10:00:00,29,74,0.0,99,12.5,E,Berawan,32.3,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 13:00:00,33,74,0.0,54,19.2,E,Cerah,37.5,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 16:00:00,32,77,0.0,91,14.0,E,Berawan,37.3,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 19:00:00,30,81,0.0,53,4.6,E,Cerah,36.4,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 22:00:00,28,85,0.0,32,4.4,SE,Cerah,33.7,kering,2026-10-26
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 01:00:00,27,88,0.0,35,4.2,SE,Cerah,32.5,kering,2026-10-27
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 04:00:00,26,92,0.0,30,4.4,E,Cerah,31.3,kering,2026-10-27
-Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 07:00:00,27,89,0.0,66,9.2,E,Cerah Berawan,31.6,kering,2026-10-27
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 06:00:00,26,85,0.1,100,3.6,SW,Berawan,30.7,ringan,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 09:00:00,29,71,0.0,100,1.9,NW,Berawan,34.0,kering,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 12:00:00,31,66,0.0,100,9.8,NW,Berawan,34.8,kering,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 15:00:00,30,66,0.5,100,7.0,SW,Berawan,33.8,ringan,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 18:00:00,27,82,0.7,98,2.7,W,Berawan,32.1,ringan,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-25 21:00:00,26,87,0.2,94,1.3,E,Berawan,31.4,ringan,2026-10-25
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 00:00:00,25,91,0.1,54,5.1,SE,Cerah,29.5,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 03:00:00,25,91,0.1,92,1.1,NE,Berawan,30.3,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 06:00:00,25,90,0.0,78,2.1,NE,Cerah Berawan,30.0,kering,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 09:00:00,29,70,0.1,76,7.1,N,Cerah Berawan,32.8,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 12:00:00,30,70,0.2,98,10.5,N,Berawan,33.7,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 15:00:00,29,72,0.6,98,4.5,W,Berawan,33.6,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 18:00:00,27,79,0.4,95,4.5,S,Berawan,31.4,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 21:00:00,26,86,0.1,98,1.6,SE,Berawan,31.2,ringan,2026-10-26
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 00:00:00,26,88,0.0,96,1.9,S,Berawan,31.4,kering,2026-10-27
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 03:00:00,25,91,0.1,99,2.6,SW,Berawan,30.0,ringan,2026-10-27
-Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 06:00:00,25,90,0.0,99,1.6,SW,Berawan,30.1,kering,2026-10-27
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 08:00:00,26,80,0.1,21,7.3,SE,Udara Kabur,29.4,ringan,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 11:00:00,28,72,0.2,63,10.6,NE,Udara Kabur,30.9,ringan,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 14:00:00,27,75,0.1,36,7.1,NE,Udara Kabur,30.4,ringan,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 17:00:00,26,83,0.0,30,3.1,SE,Udara Kabur,30.6,kering,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 20:00:00,24,92,0.0,38,4.0,E,Cerah,28.3,kering,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-25 23:00:00,24,94,0.1,89,3.9,E,Udara Kabur,28.5,ringan,2026-10-25
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 02:00:00,23,95,0.0,87,5.9,SE,Udara Kabur,26.6,kering,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 05:00:00,23,96,0.0,94,8.2,SE,Udara Kabur,26.3,kering,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 08:00:00,26,87,0.2,73,8.1,SE,Udara Kabur,30.0,ringan,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 11:00:00,27,83,0.5,93,7.1,NW,Udara Kabur,31.4,ringan,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 14:00:00,26,84,0.4,86,5.9,N,Udara Kabur,30.1,ringan,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 17:00:00,25,88,0.1,91,2.5,E,Udara Kabur,29.7,ringan,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 20:00:00,24,94,0.0,94,3.8,S,Udara Kabur,28.5,kering,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 23:00:00,24,92,0.0,89,4.1,S,Udara Kabur,28.2,kering,2026-10-26
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 02:00:00,24,95,0.0,92,5.1,S,Udara Kabur,28.3,kering,2026-10-27
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 05:00:00,23,96,0.0,91,8.2,S,Udara Kabur,26.3,kering,2026-10-27
-Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 08:00:00,26,81,0.7,47,8.9,NE,Udara Kabur,29.2,ringan,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 08:00:00,29,58,0.0,18,7.2,NE,Udara Kabur,31.2,kering,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 11:00:00,31,54,0.0,96,12.1,W,Udara Kabur,32.6,kering,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 14:00:00,31,57,0.1,26,5.2,SW,Udara Kabur,34.4,ringan,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 17:00:00,29,62,0.1,98,4.9,S,Udara Kabur,32.2,ringan,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 20:00:00,27,76,0.0,99,4.6,NE,Berawan,31.0,kering,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-25 23:00:00,26,79,0.0,99,4.7,E,Berawan,29.8,kering,2026-10-25
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 02:00:00,25,86,0.0,97,2.2,E,Berawan,29.5,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 05:00:00,24,90,0.0,18,2.0,E,Cerah,28.4,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 08:00:00,29,58,0.0,3,2.9,NW,Udara Kabur,32.1,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 11:00:00,31,57,0.0,35,9.0,W,Udara Kabur,33.7,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 14:00:00,30,61,0.4,81,6.8,W,Cerah Berawan,33.2,ringan,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 17:00:00,29,63,0.0,99,4.6,S,Berawan,32.4,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 20:00:00,27,74,0.0,100,6.6,NE,Berawan,30.4,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 23:00:00,25,83,0.0,92,5.6,E,Berawan,28.6,kering,2026-10-26
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 02:00:00,24,87,0.0,92,4.8,E,Berawan,27.6,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 05:00:00,24,89,0.0,99,4.3,E,Berawan,27.9,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 08:00:00,29,63,0.0,97,3.1,E,Udara Kabur,32.7,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 11:00:00,32,51,0.0,90,3.1,E,Udara Kabur,35.4,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 14:00:00,32,51,0.0,89,16.5,SE,Cerah Berawan,32.8,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 17:00:00,28,67,0.0,7,16.5,SE,Cerah,29.1,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 20:00:00,26,80,0.0,7,10.7,E,Cerah,28.8,kering,2026-10-27
-Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 23:00:00,25,84,0.0,24,10.7,E,Cerah,27.7,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 08:00:00,28,78,0.0,96,3.5,S,Berawan,33.0,kering,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 11:00:00,29,76,0.0,100,13.4,SW,Berawan,32.4,kering,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 14:00:00,28,78,1.3,92,14.9,S,Hujan Ringan,30.8,ringan,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 17:00:00,28,77,0.4,58,13.7,S,Cerah,30.9,ringan,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 20:00:00,28,81,0.0,78,11.9,SE,Cerah Berawan,31.8,kering,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-25 23:00:00,27,87,0.0,98,7.2,E,Berawan,31.8,kering,2026-10-25
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 02:00:00,27,88,0.0,100,5.7,E,Berawan,32.2,kering,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 05:00:00,26,92,0.0,100,7.3,E,Berawan,30.8,kering,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 08:00:00,28,82,0.1,88,3.3,NW,Cerah Berawan,33.6,ringan,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 11:00:00,29,77,0.1,92,7.2,W,Berawan,33.7,ringan,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 14:00:00,29,75,0.0,55,6.9,SW,Cerah,33.5,kering,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 17:00:00,28,79,0.1,84,4.4,SE,Cerah Berawan,33.0,ringan,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 20:00:00,27,85,0.3,76,7.4,NE,Cerah Berawan,31.5,ringan,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 23:00:00,27,88,0.0,94,4.4,NE,Berawan,32.5,kering,2026-10-26
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 02:00:00,26,92,0.0,95,6.7,E,Berawan,30.9,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 05:00:00,25,93,0.0,86,8.1,E,Cerah Berawan,29.1,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 08:00:00,28,79,0.0,36,4.5,E,Cerah,32.9,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 11:00:00,29,77,0.0,35,4.5,E,Cerah,34.3,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 14:00:00,29,74,0.0,55,13.9,S,Cerah,32.0,kering,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 17:00:00,29,74,0.1,90,13.9,S,Cerah Berawan,32.0,ringan,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 20:00:00,28,83,0.1,100,12.5,S,Berawan,31.9,ringan,2026-10-27
-Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 23:00:00,27,88,0.1,100,12.5,S,Berawan,30.9,ringan,2026-10-27
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 07:00:00,28,64,0.0,9,5.8,E,Udara Kabur,30.8,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 10:00:00,32,57,0.0,23,4.7,NW,Udara Kabur,36.0,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 13:00:00,33,66,0.0,11,8.7,NW,Udara Kabur,38.2,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 16:00:00,31,71,0.0,25,6.0,N,Udara Kabur,36.3,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 19:00:00,28,82,0.0,7,7.0,E,Udara Kabur,32.8,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-25 22:00:00,26,86,0.0,42,7.6,SE,Udara Kabur,30.0,kering,2026-10-25
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 01:00:00,24,91,0.0,29,6.7,SE,Udara Kabur,27.6,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 04:00:00,24,90,0.0,18,7.3,SE,Udara Kabur,27.4,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 07:00:00,28,73,0.0,10,1.7,NE,Cerah,32.7,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 10:00:00,31,62,0.0,24,7.4,N,Cerah,34.7,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 13:00:00,32,60,0.1,30,9.9,N,Udara Kabur,35.5,ringan,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 16:00:00,34,66,0.0,31,5.5,NE,Cerah,40.5,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 19:00:00,29,81,0.0,20,5.3,E,Cerah,34.6,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 22:00:00,26,89,0.0,25,5.5,E,Cerah,30.8,kering,2026-10-26
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 01:00:00,24,93,0.0,30,6.9,SE,Cerah,27.8,kering,2026-10-27
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 04:00:00,24,93,0.0,18,7.4,SE,Cerah,27.7,kering,2026-10-27
-Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 07:00:00,28,74,0.0,0,4.6,SE,Cerah,32.3,kering,2026-10-27
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 07:00:00,27,85,0.0,99,8.1,E,Berawan,31.4,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 10:00:00,32,67,0.0,99,7.0,S,Berawan,37.1,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 13:00:00,32,67,0.0,100,9.4,SE,Berawan,36.6,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 16:00:00,30,71,0.0,100,11.7,SE,Berawan,33.6,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 19:00:00,27,81,0.0,100,10.4,E,Berawan,30.5,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-25 22:00:00,26,87,0.0,100,7.8,E,Berawan,30.1,kering,2026-10-25
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 01:00:00,25,90,0.0,97,5.3,E,Berawan,29.3,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 04:00:00,24,93,0.0,99,5.9,NE,Berawan,28.0,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 07:00:00,26,88,0.0,94,9.3,E,Berawan,29.9,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 10:00:00,32,66,0.0,99,6.7,SW,Berawan,37.0,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 13:00:00,32,67,0.0,99,7.0,S,Berawan,37.1,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 16:00:00,30,68,0.0,94,10.8,SE,Berawan,33.4,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 19:00:00,27,81,0.0,94,9.7,E,Berawan,30.6,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 22:00:00,26,88,0.0,91,6.2,E,Berawan,30.5,kering,2026-10-26
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 01:00:00,25,93,0.0,83,4.5,NE,Cerah Berawan,29.8,kering,2026-10-27
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 04:00:00,24,94,0.0,55,5.2,NE,Cerah,28.2,kering,2026-10-27
-Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 07:00:00,26,89,0.0,64,8.8,E,Cerah Berawan,30.1,kering,2026-10-27
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 06:00:00,23,98,2.0,100,6.3,S,Hujan Ringan,26.8,ringan,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 09:00:00,25,91,0.4,100,2.7,E,Berawan,30.0,ringan,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 12:00:00,28,78,0.0,100,2.7,E,Berawan,33.2,kering,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 15:00:00,30,69,0.1,98,4.7,NE,Berawan,34.7,ringan,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 18:00:00,25,95,1.0,99,5.0,S,Berawan,29.9,ringan,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-25 21:00:00,25,98,1.3,100,5.1,E,Hujan Ringan,30.2,ringan,2026-10-25
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 00:00:00,24,97,0.4,100,2.3,SW,Berawan,29.1,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 03:00:00,24,98,0.4,100,3.0,E,Berawan,29.0,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 06:00:00,24,98,0.0,99,5.5,SE,Berawan,28.6,kering,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 09:00:00,27,86,0.1,98,4.9,E,Berawan,32.1,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 12:00:00,28,76,0.3,100,5.0,NE,Berawan,32.5,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 15:00:00,27,84,0.1,99,4.5,N,Berawan,32.0,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 18:00:00,27,88,0.1,100,2.3,N,Berawan,32.9,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 21:00:00,25,97,1.0,100,2.0,W,Hujan Ringan,30.7,ringan,2026-10-26
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 00:00:00,24,98,0.3,99,3.2,SE,Berawan,29.0,ringan,2026-10-27
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 03:00:00,24,98,0.1,99,3.0,SE,Berawan,29.0,ringan,2026-10-27
-Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 06:00:00,24,98,0.0,78,4.1,SE,Cerah Berawan,28.8,kering,2026-10-27
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 06:00:00,25,90,0.1,98,4.1,NW,Berawan,29.6,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 09:00:00,26,84,0.1,100,3.1,W,Udara Kabur,30.7,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 12:00:00,26,86,0.8,100,6.7,NW,Udara Kabur,30.2,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 15:00:00,25,89,0.9,100,0.6,NW,Udara Kabur,30.2,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 18:00:00,26,88,2.0,100,1.1,SW,Hujan Ringan,31.5,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-25 21:00:00,26,87,0.3,100,1.0,E,Udara Kabur,31.4,ringan,2026-10-25
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 00:00:00,26,86,0.0,100,3.0,N,Udara Kabur,30.9,kering,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 03:00:00,25,86,0.2,85,4.1,N,Udara Kabur,29.2,ringan,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 06:00:00,25,83,0.2,99,2.6,NE,Udara Kabur,29.1,ringan,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 09:00:00,26,81,0.1,82,3.1,W,Udara Kabur,30.4,ringan,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 12:00:00,27,77,0.0,76,7.1,W,Udara Kabur,30.7,kering,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 15:00:00,27,78,0.0,95,1.1,SW,Udara Kabur,31.9,kering,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 18:00:00,27,80,0.0,96,2.1,N,Udara Kabur,32.0,kering,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 21:00:00,26,84,0.0,94,2.7,NE,Udara Kabur,30.8,kering,2026-10-26
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 00:00:00,25,84,0.0,98,5.7,NE,Udara Kabur,28.6,kering,2026-10-27
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 03:00:00,25,83,0.0,96,3.7,NE,Udara Kabur,28.9,kering,2026-10-27
-Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 06:00:00,25,81,0.0,96,3.6,NE,Udara Kabur,28.7,kering,2026-10-27
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 06:00:00,25,94,0.2,94,6.2,W,Udara Kabur,29.6,ringan,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 09:00:00,28,80,0.1,88,4.6,S,Cerah Berawan,33.1,ringan,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 12:00:00,31,69,0.0,96,2.4,S,Udara Kabur,36.7,kering,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 15:00:00,30,73,0.9,88,10.7,SW,Udara Kabur,34.1,ringan,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 18:00:00,27,91,0.2,98,1.2,N,Berawan,33.4,ringan,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-25 21:00:00,26,95,0.5,100,4.9,S,Udara Kabur,31.6,ringan,2026-10-25
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 00:00:00,25,92,1.0,100,4.5,E,Udara Kabur,29.7,ringan,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 03:00:00,24,97,0.3,100,7.7,SE,Udara Kabur,28.0,ringan,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 06:00:00,24,96,0.0,100,7.3,E,Udara Kabur,28.0,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 09:00:00,26,84,0.0,100,6.2,E,Berawan,30.1,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 12:00:00,32,72,0.0,100,3.3,NE,Berawan,38.6,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 15:00:00,30,78,0.0,100,6.8,NE,Berawan,35.6,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 18:00:00,27,85,0.0,100,4.8,NE,Udara Kabur,32.0,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 21:00:00,27,85,0.0,100,3.6,NE,Udara Kabur,32.3,kering,2026-10-26
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 00:00:00,26,91,0.0,99,2.8,NE,Udara Kabur,31.5,kering,2026-10-27
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 03:00:00,25,94,0.1,100,4.0,S,Udara Kabur,30.0,ringan,2026-10-27
-Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 06:00:00,25,94,0.0,93,3.4,SW,Udara Kabur,30.1,kering,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 07:00:00,25,96,0.1,95,2.7,N,Udara Kabur,30.5,ringan,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 10:00:00,26,91,0.2,95,4.0,NW,Udara Kabur,31.3,ringan,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 13:00:00,30,74,0.4,95,2.6,SW,Udara Kabur,35.8,ringan,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 16:00:00,26,93,3.2,95,1.4,E,Hujan Ringan,32.0,ringan,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 19:00:00,25,97,0.1,95,2.9,NE,Udara Kabur,30.5,ringan,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-25 22:00:00,25,98,0.0,95,2.2,N,Udara Kabur,30.8,kering,2026-10-25
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 01:00:00,24,98,0.0,95,1.2,N,Udara Kabur,29.4,kering,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 04:00:00,24,99,0.1,95,0.1,E,Udara Kabur,29.7,ringan,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 07:00:00,25,98,0.0,95,3.2,SE,Udara Kabur,30.6,kering,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 10:00:00,28,83,0.0,95,4.2,E,Udara Kabur,33.5,kering,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 13:00:00,29,78,0.0,95,4.7,E,Udara Kabur,34.4,kering,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 16:00:00,26,93,1.8,95,9.1,SW,Hujan Ringan,30.5,ringan,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 19:00:00,26,97,0.4,95,2.0,NW,Udara Kabur,32.3,ringan,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 22:00:00,25,98,0.2,95,3.5,N,Udara Kabur,30.5,ringan,2026-10-26
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 01:00:00,25,98,0.5,95,2.2,NE,Udara Kabur,30.8,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 04:00:00,25,98,0.5,84,1.5,SE,Udara Kabur,30.9,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 07:00:00,25,97,0.0,98,4.2,SE,Berawan,30.3,kering,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 10:00:00,28,81,0.1,69,4.2,SE,Cerah Berawan,33.3,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 13:00:00,31,71,0.1,59,2.6,E,Cerah,37.0,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 16:00:00,31,74,2.8,92,2.6,E,Hujan Ringan,37.4,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 19:00:00,25,97,2.8,97,6.5,N,Hujan Ringan,29.8,ringan,2026-10-27
-Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 22:00:00,24,98,1.9,100,6.5,N,Hujan Ringan,28.4,ringan,2026-10-27
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 06:00:00,25,98,0.0,89,4.6,NE,Udara Kabur,30.3,kering,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 09:00:00,29,78,0.1,77,4.0,N,Udara Kabur,34.5,ringan,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 12:00:00,33,68,0.3,88,8.5,SW,Udara Kabur,38.6,ringan,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 15:00:00,29,83,0.9,84,5.5,W,Udara Kabur,34.9,ringan,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 18:00:00,26,96,0.3,85,4.3,N,Udara Kabur,31.8,ringan,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-25 21:00:00,25,98,0.3,87,3.3,E,Udara Kabur,30.6,ringan,2026-10-25
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 00:00:00,24,98,0.9,91,6.3,E,Udara Kabur,28.4,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 03:00:00,23,98,0.9,82,1.8,E,Udara Kabur,27.7,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 06:00:00,24,98,0.1,82,6.8,NE,Udara Kabur,28.3,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 09:00:00,27,84,0.0,89,2.9,NE,Udara Kabur,32.3,kering,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 12:00:00,31,77,0.5,86,0.9,SW,Udara Kabur,38.2,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 15:00:00,28,95,3.8,86,4.0,NE,Hujan Petir,35.0,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 18:00:00,26,97,0.9,85,4.7,NE,Udara Kabur,31.8,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 21:00:00,25,98,0.1,85,1.4,N,Udara Kabur,30.9,ringan,2026-10-26
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 00:00:00,24,99,0.0,85,1.6,NE,Udara Kabur,29.4,kering,2026-10-27
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 03:00:00,24,99,0.0,84,3.9,NE,Udara Kabur,29.0,kering,2026-10-27
-Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 06:00:00,24,98,0.0,85,9.2,NE,Udara Kabur,27.8,kering,2026-10-27
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 06:00:00,27,74,0.0,100,2.8,E,Berawan,31.1,kering,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 09:00:00,32,53,0.0,100,9.4,E,Berawan,34.5,kering,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 12:00:00,33,51,0.2,98,9.6,NW,Berawan,35.6,ringan,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 15:00:00,31,63,1.2,67,6.5,NW,Hujan Ringan,35.0,ringan,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 18:00:00,28,75,0.6,100,6.1,N,Berawan,32.1,ringan,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-25 21:00:00,27,76,0.0,95,2.0,SE,Berawan,31.5,kering,2026-10-25
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 00:00:00,27,82,0.0,95,1.9,E,Berawan,32.2,kering,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 03:00:00,26,87,0.0,67,3.8,SE,Cerah Berawan,30.9,kering,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 06:00:00,26,84,0.0,100,4.1,NE,Berawan,30.5,kering,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 09:00:00,30,61,0.0,99,2.3,N,Berawan,34.1,kering,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 12:00:00,32,60,0.2,100,10.2,NW,Berawan,35.4,ringan,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 15:00:00,31,62,1.5,100,5.6,N,Hujan Ringan,35.1,ringan,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 18:00:00,28,76,0.3,98,8.5,NE,Berawan,31.8,ringan,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 21:00:00,26,84,0.1,94,4.4,E,Berawan,30.4,ringan,2026-10-26
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 00:00:00,26,88,0.0,98,4.4,SE,Berawan,30.9,kering,2026-10-27
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 03:00:00,25,88,0.1,99,0.8,SE,Berawan,30.0,ringan,2026-10-27
-Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 06:00:00,25,88,0.0,97,3.2,E,Berawan,29.5,kering,2026-10-27
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 06:00:00,26,77,0.0,100,2.6,S,Berawan,30.0,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 09:00:00,33,46,0.0,100,8.5,E,Berawan,35.0,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 12:00:00,35,34,0.0,100,13.1,E,Berawan,34.7,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 15:00:00,34,34,0.0,98,11.4,E,Berawan,33.7,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 18:00:00,31,52,0.0,100,9.7,NE,Berawan,32.8,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-25 21:00:00,29,66,0.0,99,4.4,E,Berawan,32.8,kering,2026-10-25
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 00:00:00,28,68,0.0,97,6.5,W,Berawan,31.2,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 03:00:00,26,81,0.0,49,4.3,W,Cerah,30.1,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 06:00:00,26,78,0.0,74,1.4,W,Cerah Berawan,30.4,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 09:00:00,33,48,0.0,88,5.5,E,Cerah Berawan,35.9,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 12:00:00,34,43,0.0,97,9.1,NE,Berawan,35.8,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 15:00:00,33,51,0.0,100,3.9,N,Berawan,36.7,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 18:00:00,29,72,0.0,100,6.4,W,Berawan,33.2,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 21:00:00,26,87,0.0,88,3.9,W,Cerah Berawan,30.9,kering,2026-10-26
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 00:00:00,26,91,0.0,73,5.8,NW,Cerah Berawan,30.9,kering,2026-10-27
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 03:00:00,24,95,0.0,98,3.4,W,Berawan,28.7,kering,2026-10-27
-Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 06:00:00,25,92,0.0,94,2.1,SW,Berawan,30.2,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 08:00:00,27,84,0.1,29,2.5,E,Udara Kabur,32.4,ringan,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 11:00:00,29,73,0.6,29,8.4,SE,Udara Kabur,33.0,ringan,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 14:00:00,30,78,0.7,24,8.7,SE,Udara Kabur,35.2,ringan,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 17:00:00,27,87,0.5,50,2.8,SW,Udara Kabur,32.7,ringan,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 20:00:00,25,97,0.0,12,2.1,NE,Udara Kabur,30.7,kering,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-26 23:00:00,24,97,0.0,33,3.1,E,Udara Kabur,28.9,kering,2026-10-26
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 02:00:00,23,97,0.0,31,2.5,NE,Udara Kabur,27.5,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 05:00:00,23,97,0.0,30,1.7,NE,Udara Kabur,27.6,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 08:00:00,26,86,0.0,30,8.3,E,Udara Kabur,29.9,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 11:00:00,28,76,0.4,30,11.5,SE,Udara Kabur,31.2,ringan,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 14:00:00,28,77,0.2,34,11.6,SE,Udara Kabur,31.3,ringan,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 17:00:00,27,82,0.0,28,7.7,SE,Udara Kabur,31.1,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 20:00:00,25,92,0.0,20,3.9,SE,Udara Kabur,29.8,kering,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-27 23:00:00,24,95,0.1,33,4.4,E,Udara Kabur,28.5,ringan,2026-10-27
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-28 02:00:00,24,97,0.1,32,5.8,NE,Udara Kabur,28.4,ringan,2026-10-28
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-28 05:00:00,23,97,0.0,30,5.0,NE,Udara Kabur,27.0,kering,2026-10-28
+Ambon,Maluku,Nusaniwe,Nusaniwe,81.71.01.1006,2026-10-28 08:00:00,26,83,0.0,31,11.0,E,Udara Kabur,29.0,kering,2026-10-28
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 07:00:00,27,87,0.3,78,5.2,NW,Udara Kabur,32.2,ringan,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 10:00:00,29,75,0.5,77,12.8,NE,Udara Kabur,32.4,ringan,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 13:00:00,29,77,0.4,52,8.5,NE,Udara Kabur,33.5,ringan,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 16:00:00,30,74,0.0,14,12.7,NE,Udara Kabur,33.9,kering,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 19:00:00,28,85,0.2,27,7.5,NE,Udara Kabur,33.1,ringan,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-26 22:00:00,28,83,0.0,10,12.6,N,Udara Kabur,31.9,kering,2026-10-26
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 01:00:00,26,89,0.7,93,5.2,NW,Udara Kabur,30.8,ringan,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 04:00:00,24,93,1.1,42,4.6,NW,Hujan Ringan,28.2,ringan,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 07:00:00,25,93,0.6,40,6.4,NW,Udara Kabur,29.4,ringan,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 10:00:00,27,80,0.5,85,7.7,NE,Udara Kabur,30.9,ringan,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 13:00:00,27,80,0.3,92,6.0,E,Berawan,31.2,ringan,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 16:00:00,28,78,0.0,69,7.6,NE,Cerah Berawan,32.2,kering,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 19:00:00,28,82,0.0,62,9.7,NE,Udara Kabur,32.3,kering,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-27 22:00:00,28,84,0.0,52,10.7,N,Udara Kabur,32.4,kering,2026-10-27
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-28 01:00:00,26,92,0.1,89,9.9,N,Udara Kabur,30.2,ringan,2026-10-28
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-28 04:00:00,26,91,1.1,95,9.2,NE,Hujan Ringan,30.3,ringan,2026-10-28
+Balikpapan,Kalimantan Timur,Balikpapan Timur,Manggar,64.71.01.1001,2026-10-28 07:00:00,26,88,0.1,95,9.5,NE,Udara Kabur,29.9,ringan,2026-10-28
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 06:00:00,24,94,0.7,100,3.2,S,Berawan,28.6,ringan,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 09:00:00,26,89,0.1,100,0.1,SW,Berawan,31.8,ringan,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 12:00:00,27,86,1.0,100,8.6,S,Berawan,31.4,ringan,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 15:00:00,26,88,1.6,100,10.2,SW,Hujan Ringan,29.7,ringan,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 18:00:00,26,88,0.2,100,7.1,SW,Berawan,30.4,ringan,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-26 21:00:00,26,89,0.0,99,2.4,SE,Berawan,31.4,kering,2026-10-26
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 00:00:00,25,94,0.2,98,1.6,E,Berawan,30.5,ringan,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 03:00:00,25,94,0.6,99,3.7,S,Berawan,30.1,ringan,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 06:00:00,25,93,0.1,99,4.9,S,Berawan,29.7,ringan,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 09:00:00,27,86,0.0,92,5.8,NE,Berawan,32.0,kering,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 12:00:00,28,76,0.0,98,7.7,N,Berawan,32.0,kering,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 15:00:00,28,77,0.2,100,7.1,NE,Berawan,32.2,ringan,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 18:00:00,27,82,0.0,99,5.8,NE,Berawan,31.5,kering,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-27 21:00:00,26,90,0.0,83,5.9,E,Cerah Berawan,30.8,kering,2026-10-27
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-28 00:00:00,25,91,0.0,100,6.7,E,Berawan,29.2,kering,2026-10-28
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-28 03:00:00,25,89,0.0,96,5.4,E,Berawan,29.2,kering,2026-10-28
+Banda Aceh,Aceh,Baiturrahman,Kampung Baru,11.71.01.2001,2026-10-28 06:00:00,24,88,0.0,49,7.2,E,Cerah,27.2,kering,2026-10-28
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 06:00:00,25,84,0.0,98,13.1,S,Berawan,27.2,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 09:00:00,28,68,0.0,99,12.3,S,Berawan,30.1,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 12:00:00,28,67,0.0,100,13.8,SE,Berawan,29.6,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 15:00:00,29,63,0.0,99,17.8,SE,Berawan,29.8,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 18:00:00,27,74,0.0,100,16.6,S,Berawan,28.5,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-26 21:00:00,26,78,0.0,100,15.9,S,Berawan,27.5,kering,2026-10-26
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 00:00:00,25,83,0.0,100,12.5,S,Berawan,27.2,kering,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 03:00:00,25,87,0.0,60,10.9,S,Cerah Berawan,27.9,kering,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 06:00:00,24,87,0.0,16,10.6,S,Cerah,26.5,kering,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 09:00:00,30,61,0.0,43,9.0,SE,Cerah,32.8,kering,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 12:00:00,30,62,0.4,89,11.3,SE,Cerah Berawan,32.5,ringan,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 15:00:00,28,74,2.0,80,9.4,SE,Hujan Ringan,31.4,ringan,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 18:00:00,25,90,0.6,94,7.8,SE,Berawan,28.9,ringan,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-27 21:00:00,24,94,0.3,87,9.8,S,Udara Kabur,27.3,ringan,2026-10-27
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-28 00:00:00,24,94,0.1,93,9.6,S,Berawan,27.4,ringan,2026-10-28
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-28 03:00:00,24,94,0.0,94,8.0,S,Berawan,27.7,kering,2026-10-28
+Bandar Lampung,Lampung,Kedaton,Kedaton,18.71.01.1003,2026-10-28 06:00:00,24,93,0.3,96,5.6,SE,Udara Kabur,28.0,ringan,2026-10-28
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 06:00:00,20,93,0.0,86,2.5,E,Cerah Berawan,22.7,kering,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 09:00:00,25,71,0.0,70,7.2,S,Cerah Berawan,27.0,kering,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 12:00:00,25,73,1.6,95,4.2,E,Hujan Ringan,27.8,ringan,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 15:00:00,21,92,2.7,98,3.6,SE,Hujan Ringan,23.8,ringan,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 18:00:00,21,93,0.7,96,2.6,E,Udara Kabur,24.1,ringan,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-26 21:00:00,21,95,0.0,95,0.6,SW,Berawan,24.7,kering,2026-10-26
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 00:00:00,20,95,0.0,95,1.0,NE,Berawan,23.1,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 03:00:00,20,95,0.0,99,2.3,NE,Berawan,22.9,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 06:00:00,19,96,0.0,100,2.3,NE,Berawan,21.5,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 09:00:00,24,75,0.0,100,4.0,S,Berawan,26.6,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 12:00:00,26,67,0.0,100,2.8,S,Berawan,28.9,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 15:00:00,22,88,2.1,98,3.9,S,Hujan Ringan,24.9,ringan,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 18:00:00,21,95,1.0,99,2.6,S,Berawan,24.3,ringan,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-27 21:00:00,21,95,0.0,96,0.6,E,Berawan,24.7,kering,2026-10-27
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-28 00:00:00,20,95,0.0,73,1.7,NE,Cerah Berawan,23.0,kering,2026-10-28
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-28 03:00:00,20,92,0.1,69,2.9,NE,Cerah Berawan,22.5,ringan,2026-10-28
+Bandung,Jawa Barat,Sukasari,Sukarasa,32.73.01.1001,2026-10-28 06:00:00,20,92,0.0,85,2.8,NE,Cerah Berawan,22.5,kering,2026-10-28
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 07:00:00,25,93,0.0,99,11.0,E,Berawan,28.6,kering,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 10:00:00,29,72,0.0,86,18.9,SE,Cerah Berawan,30.8,kering,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 13:00:00,32,71,0.4,70,17.1,SE,Cerah Berawan,35.8,ringan,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 16:00:00,30,74,0.4,74,18.7,SE,Cerah Berawan,32.7,ringan,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 19:00:00,28,82,0.0,100,18.6,E,Berawan,30.6,kering,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-26 22:00:00,27,90,0.0,99,23.3,E,Berawan,29.0,kering,2026-10-26
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 01:00:00,26,91,0.0,99,23.2,SE,Berawan,27.6,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 04:00:00,26,92,0.0,96,19.1,E,Berawan,28.5,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 07:00:00,26,94,0.0,47,17.0,E,Cerah,29.1,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 10:00:00,29,74,0.0,26,17.8,SE,Cerah,31.3,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 13:00:00,32,73,0.0,68,24.5,SE,Cerah Berawan,34.6,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 16:00:00,31,77,0.0,97,20.6,E,Berawan,34.4,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 19:00:00,28,88,0.0,98,19.9,NE,Berawan,31.1,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-27 22:00:00,26,87,0.0,93,14.4,E,Berawan,28.8,kering,2026-10-27
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-28 01:00:00,25,93,1.3,56,18.1,E,Hujan Ringan,27.2,ringan,2026-10-28
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-28 04:00:00,25,93,0.0,33,13.8,E,Cerah,28.0,kering,2026-10-28
+Denpasar,Bali,Denpasar Selatan,Serangan,51.71.01.1001,2026-10-28 07:00:00,25,96,0.0,38,15.6,E,Cerah,28.0,kering,2026-10-28
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 06:00:00,25,90,0.0,56,1.5,E,Cerah,30.1,kering,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 09:00:00,29,69,0.0,78,7.1,N,Cerah Berawan,32.7,kering,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 12:00:00,30,66,0.6,70,11.6,N,Cerah Berawan,33.0,ringan,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 15:00:00,29,71,0.6,56,6.0,NW,Cerah,33.2,ringan,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 18:00:00,27,80,0.4,60,2.4,NW,Cerah,31.9,ringan,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-26 21:00:00,26,85,0.1,98,2.0,SE,Berawan,31.0,ringan,2026-10-26
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 00:00:00,26,90,0.0,98,0.3,SE,Berawan,31.9,kering,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 03:00:00,26,92,0.0,100,1.8,SE,Berawan,31.8,kering,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 06:00:00,26,90,0.0,100,2.4,SE,Berawan,31.5,kering,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 09:00:00,29,71,0.0,97,4.2,NE,Berawan,33.5,kering,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 12:00:00,27,79,1.3,98,6.6,N,Hujan Ringan,31.0,ringan,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 15:00:00,29,72,0.9,86,5.3,NW,Cerah Berawan,33.5,ringan,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 18:00:00,26,86,1.0,97,6.5,E,Berawan,30.2,ringan,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-27 21:00:00,25,91,0.1,91,2.9,SE,Berawan,29.9,ringan,2026-10-27
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-28 00:00:00,25,91,0.1,98,0.5,W,Berawan,30.4,ringan,2026-10-28
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-28 03:00:00,25,93,0.5,94,1.1,N,Berawan,30.5,ringan,2026-10-28
+Jakarta Pusat,DKI Jakarta,Gambir,Gambir,31.71.01.1001,2026-10-28 06:00:00,24,94,1.0,95,2.2,E,Berawan,28.8,ringan,2026-10-28
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 08:00:00,24,91,0.0,93,7.0,E,Udara Kabur,27.6,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 11:00:00,26,85,0.0,78,6.6,N,Udara Kabur,30.1,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 14:00:00,26,77,0.0,95,4.8,N,Udara Kabur,29.6,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 17:00:00,25,83,0.0,85,3.1,E,Udara Kabur,29.0,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 20:00:00,24,91,0.0,91,5.2,S,Udara Kabur,27.9,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-26 23:00:00,24,93,0.0,43,6.0,S,Udara Kabur,28.0,kering,2026-10-26
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 02:00:00,23,94,0.0,79,4.6,S,Udara Kabur,26.8,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 05:00:00,23,92,0.0,96,1.2,SW,Udara Kabur,27.3,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 08:00:00,26,81,0.0,80,7.4,NE,Udara Kabur,29.5,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 11:00:00,24,93,0.0,92,7.9,N,Udara Kabur,27.6,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 14:00:00,25,89,0.5,89,8.4,N,Udara Kabur,28.6,ringan,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 17:00:00,25,87,0.0,90,4.1,NE,Udara Kabur,29.3,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 20:00:00,24,91,0.1,93,4.3,SE,Udara Kabur,28.1,ringan,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-27 23:00:00,24,93,0.0,89,6.1,S,Udara Kabur,27.9,kering,2026-10-27
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-28 02:00:00,23,95,0.0,90,7.8,SE,Udara Kabur,26.3,kering,2026-10-28
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-28 05:00:00,23,96,0.0,77,11.2,S,Udara Kabur,25.7,kering,2026-10-28
+Jayapura,Papua,Jayapura Utara,Gurabesi,91.71.01.1001,2026-10-28 08:00:00,26,80,0.0,91,9.3,E,Udara Kabur,29.0,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 08:00:00,30,63,0.0,98,1.7,N,Berawan,34.5,kering,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 11:00:00,32,57,0.2,42,9.5,W,Cerah,35.1,ringan,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 14:00:00,34,64,0.0,100,6.0,SW,Berawan,40.0,kering,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 17:00:00,28,75,0.0,76,7.6,E,Cerah Berawan,31.8,kering,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 20:00:00,26,85,0.0,93,4.9,E,Berawan,30.4,kering,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-26 23:00:00,25,88,0.0,99,5.3,E,Berawan,29.1,kering,2026-10-26
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 02:00:00,26,89,0.0,99,4.6,E,Berawan,30.9,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 05:00:00,26,90,0.0,30,3.1,E,Cerah,31.4,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 08:00:00,29,61,0.0,23,2.9,E,Cerah,32.5,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 11:00:00,32,52,0.0,51,7.7,W,Cerah,34.6,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 14:00:00,34,51,0.0,10,16.7,SE,Cerah,35.7,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 17:00:00,28,67,0.0,4,16.1,SE,Cerah,29.2,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 20:00:00,26,79,0.0,29,11.2,E,Cerah,28.6,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-27 23:00:00,25,81,0.0,19,8.4,E,Cerah,27.8,kering,2026-10-27
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 02:00:00,26,88,0.0,0,4.7,SE,Cerah,30.8,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 05:00:00,26,91,0.0,0,5.4,E,Cerah,31.0,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 08:00:00,29,52,0.0,25,7.0,E,Cerah,30.5,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 11:00:00,34,44,0.0,89,7.0,E,Cerah Berawan,36.3,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 14:00:00,34,49,0.0,65,18.1,SE,Cerah Berawan,35.1,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 17:00:00,29,61,0.0,57,18.1,SE,Cerah,29.5,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 20:00:00,27,72,0.0,97,12.4,E,Berawan,29.0,kering,2026-10-28
+Kupang,Nusa Tenggara Timur,Maulafa,Maulafa,53.71.02.1002,2026-10-28 23:00:00,26,73,0.0,100,12.4,E,Berawan,27.7,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 08:00:00,28,80,0.0,99,2.6,W,Berawan,33.4,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 11:00:00,28,76,0.0,99,8.1,W,Berawan,31.9,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 14:00:00,34,75,0.0,100,5.8,S,Berawan,42.0,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 17:00:00,28,75,0.0,95,1.0,NE,Berawan,33.1,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 20:00:00,27,85,0.0,86,9.8,NE,Cerah Berawan,31.1,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-26 23:00:00,27,84,0.0,98,7.6,N,Berawan,31.4,kering,2026-10-26
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 02:00:00,27,86,0.0,99,5.1,NE,Berawan,32.1,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 05:00:00,26,90,0.0,92,8.5,E,Berawan,30.3,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 08:00:00,28,78,0.0,95,2.6,E,Berawan,33.2,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 11:00:00,29,72,0.0,100,8.7,SW,Berawan,32.8,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 14:00:00,35,73,0.0,98,11.6,S,Berawan,42.2,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 17:00:00,29,75,0.0,97,10.2,S,Berawan,32.9,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 20:00:00,28,80,0.0,90,9.5,SE,Cerah Berawan,32.1,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-27 23:00:00,27,86,0.0,97,10.8,S,Berawan,31.0,kering,2026-10-27
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 02:00:00,27,89,0.0,97,7.8,SE,Berawan,31.9,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 05:00:00,26,94,0.0,80,6.0,E,Cerah Berawan,31.2,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 08:00:00,28,83,0.0,16,2.5,NW,Cerah,33.8,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 11:00:00,32,75,0.0,24,2.5,NW,Cerah,39.2,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 14:00:00,35,71,0.0,21,11.0,SW,Cerah,42.0,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 17:00:00,33,66,0.0,28,11.0,SW,Cerah,37.8,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 20:00:00,29,68,0.0,86,15.8,SE,Cerah Berawan,30.9,kering,2026-10-28
+Makassar,Sulawesi Selatan,Mariso,Mariso,73.71.01.1006,2026-10-28 23:00:00,28,76,0.0,97,15.8,SE,Berawan,30.4,kering,2026-10-28
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 07:00:00,28,71,0.0,4,4.8,E,Cerah,31.9,kering,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 10:00:00,32,57,0.0,50,7.7,N,Cerah,35.4,kering,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 13:00:00,35,61,0.2,36,7.4,N,Cerah,40.8,ringan,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 16:00:00,32,66,0.1,34,6.9,NE,Cerah,37.0,ringan,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 19:00:00,28,79,0.0,41,6.0,E,Cerah,32.7,kering,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-26 22:00:00,26,90,0.0,39,4.7,E,Cerah,31.0,kering,2026-10-26
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 01:00:00,25,91,0.0,43,7.0,SE,Cerah,29.1,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 04:00:00,24,91,0.0,12,8.2,SE,Cerah,27.3,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 07:00:00,27,75,0.0,3,2.8,SE,Cerah,31.3,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 10:00:00,31,63,0.0,26,7.0,NW,Cerah,34.9,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 13:00:00,34,71,0.6,29,2.6,W,Cerah,41.9,ringan,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 16:00:00,31,74,0.0,0,4.2,N,Cerah,37.1,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 19:00:00,27,87,0.0,25,5.6,SE,Cerah,32.1,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-27 22:00:00,26,90,0.0,27,7.7,SE,Cerah,30.5,kering,2026-10-27
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-28 01:00:00,25,93,0.0,0,5.8,SE,Cerah,29.6,kering,2026-10-28
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-28 04:00:00,24,93,0.0,22,6.1,E,Cerah,27.9,kering,2026-10-28
+Manado,Sulawesi Utara,Bunaken,Molas,71.71.01.1001,2026-10-28 07:00:00,27,80,0.0,8,1.4,SE,Cerah,32.1,kering,2026-10-28
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 07:00:00,25,82,0.0,71,8.2,E,Cerah Berawan,28.0,kering,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 10:00:00,30,62,0.0,62,6.5,SW,Cerah Berawan,33.4,kering,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 13:00:00,32,67,0.5,65,27.8,S,Cerah Berawan,33.1,ringan,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 16:00:00,30,66,0.3,58,13.0,SE,Cerah,32.7,ringan,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 19:00:00,26,84,0.0,81,8.4,E,Cerah Berawan,29.7,kering,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-26 22:00:00,25,90,0.0,85,6.0,NE,Cerah Berawan,29.2,kering,2026-10-26
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 01:00:00,24,93,0.0,70,4.6,NE,Cerah Berawan,28.2,kering,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 04:00:00,24,94,0.0,41,5.6,NE,Cerah,28.1,kering,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 07:00:00,25,88,0.0,59,6.0,E,Cerah,29.0,kering,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 10:00:00,30,64,0.0,35,9.8,SW,Cerah,33.0,kering,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 13:00:00,32,68,0.4,76,27.8,SW,Cerah Berawan,33.2,ringan,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 16:00:00,30,73,0.4,61,4.9,SE,Cerah Berawan,35.2,ringan,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 19:00:00,26,89,0.1,46,8.5,NE,Cerah,30.2,ringan,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-27 22:00:00,25,91,0.0,56,8.5,E,Cerah,28.8,kering,2026-10-27
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-28 01:00:00,25,94,0.0,5,5.4,E,Cerah,29.7,kering,2026-10-28
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-28 04:00:00,24,94,0.0,55,6.3,E,Cerah,28.0,kering,2026-10-28
+Mataram,Nusa Tenggara Barat,Ampenan,Ampenan Selatan,52.71.01.1004,2026-10-28 07:00:00,25,86,0.0,13,4.2,E,Cerah,29.1,kering,2026-10-28
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 06:00:00,24,97,0.0,80,3.0,SE,Cerah Berawan,28.9,kering,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 09:00:00,25,91,0.0,67,4.2,SE,Cerah Berawan,29.7,kering,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 12:00:00,28,77,0.2,87,4.0,NE,Cerah Berawan,32.8,ringan,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 15:00:00,28,76,0.1,73,6.8,NE,Cerah Berawan,32.1,ringan,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 18:00:00,26,90,1.0,60,6.0,S,Cerah Berawan,30.8,ringan,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-26 21:00:00,24,98,1.6,60,2.1,W,Hujan Ringan,29.2,ringan,2026-10-26
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 00:00:00,24,98,0.5,60,2.6,W,Cerah Berawan,29.1,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 03:00:00,24,98,0.4,60,1.6,W,Cerah,29.3,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 06:00:00,23,99,0.3,61,3.7,SW,Cerah Berawan,27.4,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 09:00:00,26,88,0.4,64,2.2,SW,Cerah Berawan,31.3,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 12:00:00,30,72,0.1,85,4.1,N,Cerah Berawan,35.3,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 15:00:00,26,90,1.7,58,4.2,NW,Hujan Ringan,31.1,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 18:00:00,25,95,2.4,64,7.5,SW,Hujan Ringan,29.4,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-27 21:00:00,24,97,0.5,57,6.6,SW,Cerah,28.2,ringan,2026-10-27
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-28 00:00:00,24,97,0.0,59,5.0,SW,Cerah,28.6,kering,2026-10-28
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-28 03:00:00,23,97,0.0,61,4.9,SW,Cerah Berawan,27.0,kering,2026-10-28
+Medan,Sumatera Utara,Medan Kota,Pasar Baru,12.71.01.1001,2026-10-28 06:00:00,23,98,0.0,62,2.3,S,Cerah Berawan,27.6,kering,2026-10-28
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 06:00:00,25,86,0.1,96,3.3,N,Berawan,29.3,ringan,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 09:00:00,26,80,0.0,90,4.9,W,Cerah Berawan,29.9,kering,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 12:00:00,27,77,0.0,99,8.0,SW,Berawan,30.5,kering,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 15:00:00,27,78,0.0,90,5.6,SW,Berawan,31.1,kering,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 18:00:00,27,81,0.0,100,1.6,E,Berawan,32.2,kering,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-26 21:00:00,27,82,0.0,98,2.6,NE,Berawan,32.1,kering,2026-10-26
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 00:00:00,26,84,0.0,100,5.7,NE,Berawan,30.2,kering,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 03:00:00,26,84,0.0,92,2.9,NE,Berawan,30.7,kering,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 06:00:00,25,85,0.2,77,4.9,NE,Cerah Berawan,28.9,ringan,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 09:00:00,27,81,0.0,95,6.8,W,Berawan,31.2,kering,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 12:00:00,27,82,0.3,97,5.2,W,Berawan,31.6,ringan,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 15:00:00,28,79,0.1,95,2.9,SW,Berawan,33.3,ringan,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 18:00:00,27,82,0.0,91,0.7,E,Berawan,32.5,kering,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-27 21:00:00,27,85,0.1,99,2.5,E,Berawan,32.5,ringan,2026-10-27
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-28 00:00:00,26,86,0.5,98,3.3,NE,Berawan,30.9,ringan,2026-10-28
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-28 03:00:00,26,85,0.1,100,3.6,E,Berawan,30.7,ringan,2026-10-28
+Padang,Sumatera Barat,Padang Selatan,Belakang Pondok,13.71.01.1001,2026-10-28 06:00:00,25,86,0.0,98,2.7,NE,Berawan,29.4,kering,2026-10-28
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 06:00:00,24,96,0.6,100,4.6,E,Udara Kabur,28.5,ringan,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 09:00:00,26,89,0.3,96,4.0,SE,Berawan,31.1,ringan,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 12:00:00,30,68,0.0,99,4.6,SE,Berawan,34.6,kering,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 15:00:00,31,62,0.0,96,5.5,SE,Berawan,35.1,kering,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 18:00:00,28,79,0.0,95,10.8,NE,Udara Kabur,31.7,kering,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-26 21:00:00,26,89,0.0,96,4.7,NE,Udara Kabur,30.9,kering,2026-10-26
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 00:00:00,25,94,0.0,99,2.7,E,Udara Kabur,30.3,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 03:00:00,25,95,0.0,82,2.3,SE,Udara Kabur,30.5,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 06:00:00,25,95,0.0,91,3.3,SE,Udara Kabur,30.3,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 09:00:00,28,76,0.0,99,4.7,SE,Berawan,32.5,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 12:00:00,31,61,0.0,100,4.0,N,Berawan,35.2,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 15:00:00,29,75,0.1,97,9.4,NE,Berawan,33.1,ringan,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 18:00:00,28,85,0.0,100,7.3,E,Udara Kabur,33.1,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-27 21:00:00,27,91,0.0,94,4.3,E,Udara Kabur,32.8,kering,2026-10-27
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-28 00:00:00,25,93,0.5,84,5.8,S,Udara Kabur,29.6,ringan,2026-10-28
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-28 03:00:00,24,96,0.2,98,7.2,SW,Udara Kabur,28.0,ringan,2026-10-28
+Palembang,Sumatera Selatan,Ilir Barat Dua,Tiga-puluh-lima Ilir,16.71.01.1001,2026-10-28 06:00:00,24,97,3.0,100,3.9,SW,Hujan Ringan,28.8,ringan,2026-10-28
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 06:00:00,24,98,0.0,82,1.6,NE,Udara Kabur,29.3,kering,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 09:00:00,28,81,0.0,89,3.1,SE,Cerah Berawan,33.5,kering,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 12:00:00,31,68,0.0,62,3.0,SE,Cerah Berawan,36.5,kering,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 15:00:00,31,68,0.0,40,4.0,S,Udara Kabur,36.3,kering,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 18:00:00,25,95,2.7,83,2.7,SE,Hujan Ringan,30.4,ringan,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-26 21:00:00,25,97,0.1,76,2.0,E,Cerah Berawan,30.7,ringan,2026-10-26
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 00:00:00,25,98,0.0,81,1.6,E,Udara Kabur,30.9,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 03:00:00,24,98,0.0,80,4.2,W,Cerah Berawan,28.8,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 06:00:00,24,98,0.0,80,4.8,W,Udara Kabur,28.7,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 09:00:00,26,87,0.0,80,1.4,N,Cerah Berawan,31.3,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 12:00:00,29,75,0.0,79,2.2,NE,Cerah Berawan,34.5,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 15:00:00,30,71,0.0,80,6.5,E,Cerah Berawan,34.6,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 18:00:00,26,94,0.0,81,3.4,S,Udara Kabur,31.7,kering,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-27 21:00:00,25,98,2.3,81,6.0,SW,Hujan Ringan,30.0,ringan,2026-10-27
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-28 00:00:00,24,99,0.0,82,5.3,SW,Udara Kabur,28.7,kering,2026-10-28
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-28 03:00:00,23,98,0.2,79,1.2,S,Udara Kabur,27.8,ringan,2026-10-28
+Pekanbaru,Riau,Sukajadi,Sukajadi,14.71.01.1007,2026-10-28 06:00:00,24,97,0.0,81,3.5,S,Cerah Berawan,28.8,kering,2026-10-28
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 06:00:00,24,98,0.0,100,7.1,E,Udara Kabur,28.2,kering,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 09:00:00,27,85,0.1,100,3.2,NE,Udara Kabur,32.3,ringan,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 12:00:00,30,73,1.4,99,7.8,W,Hujan Ringan,34.7,ringan,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 15:00:00,26,94,2.7,90,3.5,W,Hujan Ringan,31.7,ringan,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 18:00:00,25,98,0.5,99,4.0,NE,Udara Kabur,30.4,ringan,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-26 21:00:00,25,98,0.1,99,3.0,NE,Udara Kabur,30.6,ringan,2026-10-26
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 00:00:00,25,99,0.1,100,4.5,NE,Udara Kabur,30.4,ringan,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 03:00:00,24,99,0.0,100,7.2,NE,Udara Kabur,28.3,kering,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 06:00:00,24,98,0.0,99,9.6,NE,Udara Kabur,27.8,kering,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 09:00:00,27,83,0.0,100,7.8,NE,Udara Kabur,31.2,kering,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 12:00:00,30,73,0.2,91,5.7,NE,Udara Kabur,35.1,ringan,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 15:00:00,26,94,2.0,100,2.1,NW,Hujan Ringan,32.0,ringan,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 18:00:00,25,96,0.0,99,1.4,SE,Udara Kabur,30.7,kering,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-27 21:00:00,25,98,0.0,100,3.6,E,Udara Kabur,30.5,kering,2026-10-27
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-28 00:00:00,24,99,0.0,100,1.1,SE,Kabut/Asap,29.5,kering,2026-10-28
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-28 03:00:00,24,99,0.0,100,5.6,E,Kabut/Asap,28.6,kering,2026-10-28
+Pontianak,Kalimantan Barat,Pontianak Selatan,Benuamelayu Laut,61.71.01.1002,2026-10-28 06:00:00,24,98,0.0,100,10.0,E,Udara Kabur,27.7,kering,2026-10-28
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 06:00:00,26,79,0.0,61,3.6,N,Cerah Berawan,30.0,kering,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 09:00:00,29,67,0.0,47,2.9,NW,Cerah,33.3,kering,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 12:00:00,34,61,0.1,81,11.7,NW,Cerah Berawan,38.4,ringan,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 15:00:00,32,67,0.5,100,1.9,NW,Berawan,38.1,ringan,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 18:00:00,27,88,1.7,100,4.1,E,Hujan Ringan,32.5,ringan,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-26 21:00:00,26,91,0.3,69,4.1,E,Cerah Berawan,31.3,ringan,2026-10-26
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 00:00:00,25,94,0.0,52,3.2,E,Cerah,30.2,kering,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 03:00:00,25,93,0.0,5,4.0,E,Cerah,29.9,kering,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 06:00:00,25,90,0.0,54,4.8,E,Cerah,29.4,kering,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 09:00:00,30,64,0.0,39,9.1,NE,Cerah,33.2,kering,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 12:00:00,32,72,0.3,80,7.8,NW,Cerah Berawan,37.7,ringan,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 15:00:00,31,81,0.6,89,2.5,W,Cerah Berawan,38.5,ringan,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 18:00:00,29,86,0.8,100,7.6,E,Berawan,34.9,ringan,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-27 21:00:00,26,95,0.4,100,7.4,E,Berawan,31.1,ringan,2026-10-27
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-28 00:00:00,25,95,0.0,44,1.9,SE,Cerah,30.5,kering,2026-10-28
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-28 03:00:00,25,94,0.0,50,4.3,SE,Cerah,30.0,kering,2026-10-28
+Semarang,Jawa Tengah,Semarang Tengah,Miroto,33.74.01.1001,2026-10-28 06:00:00,25,91,0.0,45,1.5,E,Cerah,30.2,kering,2026-10-28
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 06:00:00,27,76,0.0,88,3.1,S,Cerah Berawan,31.3,kering,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 09:00:00,33,49,0.0,93,2.9,E,Berawan,36.5,kering,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 12:00:00,36,39,0.0,100,10.7,E,Berawan,37.5,kering,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 15:00:00,32,54,0.0,72,3.4,N,Udara Kabur,35.8,kering,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 18:00:00,25,92,0.1,100,4.8,NW,Berawan,29.7,ringan,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-26 21:00:00,26,91,0.7,98,3.9,NW,Berawan,31.3,ringan,2026-10-26
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 00:00:00,25,93,0.0,51,2.2,N,Cerah,30.3,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 03:00:00,25,92,0.0,86,0.4,W,Cerah Berawan,30.5,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 06:00:00,26,90,0.0,100,1.4,S,Berawan,31.7,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 09:00:00,30,66,0.0,91,7.4,NE,Berawan,33.8,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 12:00:00,31,62,0.7,83,11.5,N,Cerah Berawan,33.9,ringan,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 15:00:00,31,63,0.0,84,6.8,NE,Cerah Berawan,35.0,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 18:00:00,26,86,0.0,76,1.2,NW,Cerah Berawan,31.3,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-27 21:00:00,25,91,0.0,96,5.3,S,Berawan,29.5,kering,2026-10-27
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-28 00:00:00,25,96,0.0,57,3.8,W,Cerah,30.3,kering,2026-10-28
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-28 03:00:00,24,98,0.0,96,1.8,SW,Berawan,29.3,kering,2026-10-28
+Surabaya,Jawa Timur,Karang Pilang,Karang Pilang,35.78.01.1001,2026-10-28 06:00:00,25,94,0.0,13,0.5,NW,Cerah,30.7,kering,2026-10-28
