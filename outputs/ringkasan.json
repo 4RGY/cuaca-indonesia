@@ -1,26 +1,26 @@
 {
-  "dibuat_utc": "2026-11-02 00:51 UTC",
-  "periode_mulai": "2 Nov 2026",
-  "periode_selesai": "4 Nov 2026",
-  "horizon_jam": 66,
+  "dibuat_utc": "2026-11-03 02:57 UTC",
+  "periode_mulai": "3 Nov 2026",
+  "periode_selesai": "5 Nov 2026",
+  "horizon_jam": 63,
   "jumlah_kota": 19,
-  "jumlah_slot": 413,
+  "jumlah_slot": 397,
   "terbasah": [
-    "Bandar Lampung",
-    12.4
+    "Pontianak",
+    14.5
   ],
   "terkering": [
-    "Kupang",
+    "Surabaya",
     0.3
   ],
   "terpanas": [
     "Surabaya",
-    35.0
+    36.0
   ],
   "terdingin": [
     "Bandung",
     19.0
   ],
   "kota_tanpa_hujan": 0,
-  "peringatan": 5
+  "peringatan": 10
 }
