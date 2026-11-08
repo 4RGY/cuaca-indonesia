@@ -27,7 +27,7 @@ Ambil contoh nyata dari `outputs/laporan.md` (19 kota, 375 slot):
 | Suhu terendah | **Bandung**, 20 C |
 | Rentang suhu antar kota | 17 C |
 | Kota tanpa hujan | 2 dari 19 |
-| Slot lewat ambang | 12 slot (hujan lebat, angin >= 30 km/jam, atau suhu >= 34 C) |
+| Slot lewat ambang | 23 slot (hujan lebat, angin >= 30 km/jam, atau suhu >= 34 C) |
 | Kondisi didominasi | Cerah 44%, **Udara Kabur 31%** (10 kota), Berawan 10% |
 
 Satu temuan yang khas Indonesia: nyaris sepertiga slot prakiraan berstatus **Udara Kabur**,
@@ -66,7 +66,7 @@ pip install -e ".[dev]"
 
 python scripts/resolve_wilayah.py   # sekali saja, mengisi data/kota.json
 python -m cuaca_indonesia.cli       # ambil BMKG -> analisis -> grafik -> laporan
-python -m pytest                    # 16 tes, tanpa jaringan
+python -m pytest                    # 17 tes, tanpa jaringan
 ```
 
 Opsi CLI:
@@ -121,7 +121,7 @@ cuaca-indonesia/
     cli.py        orkestrator
   scripts/resolve_wilayah.py   kode wilayah + verifikasi BMKG
   data/kota.json               19 kota terverifikasi
-  tests/test_cuaca.py          16 tes offline
+  tests/test_cuaca.py          17 tes offline
   outputs/                     laporan, csv, grafik
 ```
 
