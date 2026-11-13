@@ -1,26 +1,26 @@
 {
-  "dibuat_utc": "2026-11-12 02:18 UTC",
-  "periode_mulai": "12 Nov 2026",
-  "periode_selesai": "14 Nov 2026",
+  "dibuat_utc": "2026-11-13 01:55 UTC",
+  "periode_mulai": "13 Nov 2026",
+  "periode_selesai": "15 Nov 2026",
   "horizon_jam": 63,
   "jumlah_kota": 19,
-  "jumlah_slot": 397,
+  "jumlah_slot": 399,
   "terbasah": [
     "Medan",
-    25.6
+    38.2
   ],
   "terkering": [
     "Denpasar",
-    0.0
+    0.4
   ],
   "terpanas": [
-    "Bandar Lampung",
-    35.0
+    "Surabaya",
+    36.0
   ],
   "terdingin": [
     "Bandung",
     20.0
   ],
-  "kota_tanpa_hujan": 2,
+  "kota_tanpa_hujan": 0,
   "peringatan": 12
 }

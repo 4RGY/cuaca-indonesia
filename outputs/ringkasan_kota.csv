@@ -1,20 +1,20 @@
 kota,provinsi,kecamatan,curah_total_mm,slot_hujan,slot_lebat,suhu_maks,suhu_min,suhu_terasa_maks,kelembapan_rata,angin_maks,kondisi_dominan,jumlah_slot,jam_hujan,selisih_suhu
-Medan,Sumatera Utara,Medan Kota,25.6,17,0,31,24,36.3,90.0,8.7,Berawan,21,51,7
-Bandar Lampung,Lampung,Kedaton,21.2,17,0,35,24,36.7,79.0,15.6,Hujan Ringan,21,51,11
-Pontianak,Kalimantan Barat,Pontianak Selatan,19.7,15,0,32,24,39.1,92.0,10.4,Berawan,21,45,8
-Pekanbaru,Riau,Sukajadi,14.7,21,0,31,24,35.9,88.0,8.9,Berawan,21,63,7
-Semarang,Jawa Tengah,Semarang Tengah,13.0,12,0,33,26,37.1,80.0,13.9,Cerah,21,36,7
-Bandung,Jawa Barat,Sukasari,11.8,9,0,28,20,31.4,82.0,7.7,Berawan,21,27,8
-Palembang,Sumatera Selatan,Ilir Barat Dua,9.9,15,0,31,24,36.6,88.0,6.7,Berawan,21,45,7
-Padang,Sumatera Barat,Padang Selatan,9.9,17,0,28,25,32.9,86.0,5.6,Berawan,21,51,3
-Banda Aceh,Aceh,Baiturrahman,7.3,11,0,30,24,35.1,87.0,13.1,Berawan,21,33,6
-Manado,Sulawesi Utara,Bunaken,6.4,10,0,30,24,35.4,85.0,7.8,Cerah,21,30,6
-Jakarta Pusat,DKI Jakarta,Gambir,5.8,12,0,32,26,36.3,79.0,10.8,Berawan,21,36,6
-Balikpapan,Kalimantan Timur,Balikpapan Timur,5.0,14,0,29,25,33.7,84.0,14.6,Berawan,21,42,4
-Mataram,Nusa Tenggara Barat,Ampenan,4.6,10,0,32,24,37.4,81.0,12.5,Cerah,21,30,8
-Ambon,Maluku,Nusaniwe,3.4,2,0,30,24,34.7,86.0,12.4,Cerah Berawan,20,6,6
-Surabaya,Jawa Timur,Karang Pilang,2.6,10,0,35,25,38.2,72.0,14.4,Cerah,21,30,10
-Makassar,Sulawesi Selatan,Mariso,2.5,3,0,35,27,43.8,80.0,9.7,Cerah,21,9,8
-Jayapura,Papua,Jayapura Utara,1.8,12,0,28,24,32.4,86.0,16.9,Cerah Berawan,20,36,4
-Kupang,Nusa Tenggara Timur,Maulafa,0.0,0,0,35,25,38.3,65.0,37.0,Cerah,21,0,10
-Denpasar,Bali,Denpasar Selatan,0.0,0,0,32,25,36.8,82.0,21.3,Cerah Berawan,21,0,7
+Medan,Sumatera Utara,Medan Kota,38.2,19,0,30,23,35.5,90.0,12.9,Hujan Ringan,21,57,7
+Banda Aceh,Aceh,Baiturrahman,19.1,17,0,28,24,33.3,91.0,9.1,Hujan Ringan,21,51,4
+Semarang,Jawa Tengah,Semarang Tengah,17.1,12,0,34,25,38.3,79.0,18.5,Cerah,21,36,9
+Bandung,Jawa Barat,Sukasari,16.0,8,0,32,20,37.4,83.0,8.6,Berawan,21,24,12
+Pontianak,Kalimantan Barat,Pontianak Selatan,14.7,15,0,31,24,37.8,91.0,9.3,Cerah Berawan,21,45,7
+Palembang,Sumatera Selatan,Ilir Barat Dua,14.1,18,0,30,24,36.2,90.0,6.4,Berawan,21,54,6
+Padang,Sumatera Barat,Padang Selatan,11.8,19,0,27,25,32.4,86.0,6.2,Berawan,21,57,2
+Jakarta Pusat,DKI Jakarta,Gambir,11.4,15,0,32,26,37.4,82.0,11.5,Berawan,21,45,6
+Mataram,Nusa Tenggara Barat,Ampenan,10.5,10,0,34,25,36.3,79.0,27.8,Cerah,21,30,9
+Ambon,Maluku,Nusaniwe,9.3,10,0,30,24,35.8,89.0,12.5,Berawan,21,30,6
+Pekanbaru,Riau,Sukajadi,8.7,12,0,30,24,36.7,90.0,8.4,Berawan,21,36,6
+Bandar Lampung,Lampung,Kedaton,8.4,17,0,31,24,34.9,86.0,9.0,Berawan,21,51,7
+Balikpapan,Kalimantan Timur,Balikpapan Timur,4.9,13,0,30,26,34.6,83.0,17.1,Berawan,21,39,4
+Manado,Sulawesi Utara,Bunaken,4.2,11,0,30,25,35.5,83.0,6.3,Cerah,21,33,5
+Surabaya,Jawa Timur,Karang Pilang,3.6,7,0,36,26,37.4,69.0,27.8,Berawan,21,21,10
+Makassar,Sulawesi Selatan,Mariso,3.5,12,0,31,27,35.0,79.0,13.0,Cerah,21,36,4
+Jayapura,Papua,Jayapura Utara,2.3,12,0,32,23,38.4,87.0,11.7,Cerah Berawan,21,36,9
+Kupang,Nusa Tenggara Timur,Maulafa,1.9,6,0,33,25,35.5,67.0,33.3,Cerah,21,18,8
+Denpasar,Bali,Denpasar Selatan,0.4,2,0,33,26,36.3,81.0,23.8,Cerah,21,6,7
