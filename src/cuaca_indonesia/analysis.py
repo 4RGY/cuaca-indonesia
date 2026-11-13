@@ -46,8 +46,11 @@ def harian(df: pd.DataFrame) -> pd.DataFrame:
     return tabel.round(1)
 
 
-def peringatan(df: pd.DataFrame) -> list[dict[str, Any]]:
-    """Slot prakiraan yang melewati ambang hujan lebat, angin kencang, atau panas."""
+def peringatan(df: pd.DataFrame, batas: int | None = 12) -> list[dict[str, Any]]:
+    """Slot prakiraan yang melewati ambang hujan lebat, angin kencang, atau panas.
+
+    Hanya `batas` slot teratas yang dikembalikan; `batas=None` mengembalikan semuanya.
+    """
     baris = df[
         (df["curah_hujan_mm"] >= AMBANG_HUJAN_LEBAT_MM)
         | (df["angin_kmh"] >= AMBANG_ANGIN_KENCANG_KMH)
@@ -60,8 +63,10 @@ def peringatan(df: pd.DataFrame) -> list[dict[str, Any]]:
         + baris["angin_kmh"] / AMBANG_ANGIN_KENCANG_KMH
     )
     baris = baris.sort_values(["skor", "curah_hujan_mm"], ascending=False)
+    if batas is not None:
+        baris = baris.head(batas)
     hasil = []
-    for _, row in baris.head(12).iterrows():
+    for _, row in baris.iterrows():
         alasan = []
         if row["curah_hujan_mm"] >= AMBANG_HUJAN_LEBAT_MM:
             alasan.append(f"hujan {row['curah_hujan_mm']:.1f} mm/3 jam")

@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 import pytest
 
-from cuaca_indonesia import analysis, fetch, parse
+from cuaca_indonesia import analysis, fetch, parse, report
 
 
 def _slot(waktu: datetime, suhu: float = 30.0, hujan: float = 0.0, angin: float = 10.0,
@@ -124,3 +124,15 @@ def test_kontras_suhu():
     kontras = analysis.kontras_suhu(analysis.ringkasan_kota(df))
     assert kontras["suhu_maks_tertinggi_c"] == 35.0
     assert kontras["rentang_antar_kota_c"] > 0
+
+
+def test_jumlah_peringatan_tidak_terpotong(tmp_path):
+    df = parse.build_dataframe({"Surabaya": _payload(kota="Surabaya")}, horizon_jam=48)
+    df["suhu_c"] = 35.0  # 16 slot lewat ambang panas
+    ringkas = analysis.ringkasan_kota(df)
+
+    assert len(analysis.peringatan(df)) == 12
+    assert len(analysis.peringatan(df, batas=None)) == 16
+    blok = report.tulis_laporan(df, ringkas, analysis.harian(df), tmp_path / "laporan.md")
+    assert blok["peringatan"] == 16
+    assert "Ditampilkan 12 slot teratas dari 16 slot." in (tmp_path / "laporan.md").read_text(encoding="utf-8")

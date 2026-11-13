@@ -51,7 +51,7 @@ def blok_ringkasan(df: pd.DataFrame, ringkas: pd.DataFrame) -> dict[str, Any]:
         "terpanas": urut.get("terpanas"),
         "terdingin": urut.get("terdingin"),
         "kota_tanpa_hujan": urut.get("kota_tanpa_hujan"),
-        "peringatan": len(analysis.peringatan(df)),
+        "peringatan": len(analysis.peringatan(df, batas=None)),
     }
 
 
@@ -124,6 +124,9 @@ def tulis_laporan(
             "Slot yang melewati ambang hujan lebat (>= 20 mm/3 jam), angin kencang "
             "(>= 30 km/jam), atau suhu ekstrem (>= 34 C):"
         )
+        if blok["peringatan"] > len(peringatan):
+            baris.append("")
+            baris.append(f"Ditampilkan {len(peringatan)} slot teratas dari {blok['peringatan']} slot.")
         baris.append("")
         for item in peringatan:
             baris.append(
