@@ -1,66 +1,67 @@
 # Prakiraan Cuaca Indonesia
 
-Analisis 19 kota, 409 slot prakiraan 3 jam (16 Nov 2026 sampai 18 Nov 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-11-16 01:06 UTC.
+Analisis 19 kota, 391 slot prakiraan 3 jam (17 Nov 2026 sampai 19 Nov 2026). Sumber: API prakiraan cuaca BMKG. Dibuat 2026-11-17 03:59 UTC.
 
 ## Angka kunci
 
-- Paling basah: **Bandung** dengan 29.7 mm dalam 66 jam.
-- Paling kering: **Jayapura** dengan 1.5 mm.
-- Suhu tertinggi: **Surabaya** 35 C.
+- Paling basah: **Bandung** dengan 34.9 mm dalam 63 jam.
+- Paling kering: **Ambon** dengan 0.0 mm.
+- Suhu tertinggi: **Surabaya** 34 C.
 - Suhu terendah: **Bandung** 19 C.
-- Rentang suhu antar kota: 16.0 C (selisih harian rata-rata 6.8 C).
-- Kota tanpa hujan sama sekali: 0 dari 19.
+- Rentang suhu antar kota: 15.0 C (selisih harian rata-rata 6.5 C).
+- Kota tanpa hujan sama sekali: 1 dari 19.
 
 ## Ringkasan per kota
 
-| Kota | Hujan 66 jam (mm) | Jam hujan | Slot lebat | Suhu (C) | RH (%) | Angin maks (km/jam) | Kondisi dominan |
+| Kota | Hujan 63 jam (mm) | Jam hujan | Slot lebat | Suhu (C) | RH (%) | Angin maks (km/jam) | Kondisi dominan |
 |---|---|---|---|---|---|---|---|
-| Bandung | 29.7 | 39 | 0 | 19-28 | 87 | 10.2 | Hujan Ringan |
-| Padang | 20.9 | 60 | 0 | 25-28 | 86 | 7.5 | Hujan Ringan |
-| Medan | 17.4 | 63 | 0 | 24-30 | 91 | 7.9 | Berawan |
-| Pekanbaru | 15.3 | 30 | 0 | 23-29 | 90 | 10.4 | Hujan Ringan |
-| Pontianak | 15.0 | 51 | 0 | 24-31 | 93 | 12.3 | Berawan |
-| Palembang | 12.5 | 48 | 0 | 24-30 | 89 | 8.5 | Berawan |
-| Semarang | 11.9 | 42 | 0 | 25-32 | 82 | 12.1 | Cerah Berawan |
-| Manado | 10.6 | 36 | 0 | 25-32 | 83 | 9.8 | Cerah |
-| Ambon | 9.7 | 27 | 0 | 24-31 | 90 | 10.3 | Cerah |
-| Jakarta Pusat | 9.5 | 42 | 0 | 25-32 | 82 | 7.8 | Berawan |
-| Kupang | 8.7 | 42 | 0 | 25-31 | 81 | 11.6 | Cerah |
-| Bandar Lampung | 8.2 | 33 | 0 | 24-34 | 82 | 14.5 | Berawan |
-| Balikpapan | 7.0 | 42 | 0 | 24-30 | 84 | 15.1 | Berawan |
-| Surabaya | 6.7 | 39 | 0 | 25-35 | 79 | 13.9 | Cerah |
-| Denpasar | 6.4 | 45 | 0 | 25-34 | 85 | 27.8 | Cerah Berawan |
-| Makassar | 5.5 | 33 | 0 | 26-30 | 80 | 9.8 | Berawan |
-| Mataram | 5.3 | 42 | 0 | 24-32 | 86 | 24.3 | Cerah Berawan |
-| Banda Aceh | 2.8 | 18 | 0 | 24-30 | 85 | 7.7 | Cerah Berawan |
-| Jayapura | 1.5 | 18 | 0 | 24-29 | 86 | 13.0 | Berawan |
+| Bandung | 34.9 | 45 | 0 | 19-28 | 86 | 9.4 | Berawan |
+| Medan | 29.2 | 60 | 0 | 23-29 | 90 | 9.0 | Hujan Ringan |
+| Padang | 28.5 | 54 | 0 | 25-28 | 84 | 7.7 | Hujan Ringan |
+| Palembang | 23.9 | 51 | 0 | 24-30 | 89 | 7.2 | Berawan |
+| Pontianak | 23.1 | 57 | 0 | 24-32 | 92 | 10.3 | Hujan Ringan |
+| Mataram | 19.8 | 30 | 0 | 25-32 | 88 | 27.8 | Berawan |
+| Jakarta Pusat | 16.5 | 51 | 0 | 24-32 | 83 | 8.0 | Berawan |
+| Semarang | 16.3 | 33 | 0 | 25-33 | 83 | 9.5 | Berawan |
+| Surabaya | 11.5 | 42 | 0 | 25-34 | 79 | 37.2 | Berawan |
+| Pekanbaru | 10.8 | 54 | 0 | 24-30 | 89 | 9.9 | Berawan |
+| Kupang | 10.4 | 33 | 0 | 26-34 | 80 | 27.8 | Cerah |
+| Bandar Lampung | 10.4 | 39 | 0 | 24-31 | 84 | 14.0 | Cerah Berawan |
+| Manado | 8.6 | 39 | 0 | 24-31 | 85 | 7.7 | Berawan |
+| Balikpapan | 6.6 | 48 | 0 | 25-29 | 86 | 15.2 | Berawan |
+| Banda Aceh | 5.0 | 30 | 0 | 24-30 | 86 | 12.3 | Berawan |
+| Makassar | 4.7 | 30 | 0 | 25-30 | 83 | 8.9 | Berawan |
+| Denpasar | 4.0 | 12 | 0 | 25-30 | 85 | 11.3 | Berawan |
+| Jayapura | 1.4 | 3 | 0 | 24-29 | 85 | 11.8 | Cerah Berawan |
+| Ambon | 0.0 | 0 | 0 | 24-30 | 88 | 11.6 | Cerah Berawan |
 
 ## Kondisi yang diprediksi
 
 | Kondisi | Slot | Porsi (%) | Jumlah kota |
 |---|---|---|---|
-| Berawan | 140 | 34.2 | 18 |
-| Cerah Berawan | 98 | 24.0 | 18 |
-| Hujan Ringan | 78 | 19.1 | 18 |
-| Cerah | 77 | 18.8 | 15 |
-| Udara Kabur | 10 | 2.4 | 7 |
-| Hujan Petir | 3 | 0.7 | 2 |
-| Petir | 2 | 0.5 | 2 |
-| Hujan Sedang | 1 | 0.2 | 1 |
+| Berawan | 145 | 37.1 | 19 |
+| Hujan Ringan | 84 | 21.5 | 16 |
+| Cerah Berawan | 78 | 19.9 | 15 |
+| Cerah | 56 | 14.3 | 15 |
+| Udara Kabur | 13 | 3.3 | 6 |
+| Hujan Petir | 8 | 2.0 | 6 |
+| Hujan Sedang | 4 | 1.0 | 3 |
+| Petir | 3 | 0.8 | 3 |
 
 ## Peringatan dini
 
 Slot yang melewati ambang hujan lebat (>= 20 mm/3 jam), angin kencang (>= 30 km/jam), atau suhu ekstrem (>= 34 C):
 
-- **Denpasar** 18 Nov 15:00: suhu 34 C (Cerah Berawan)
-- **Denpasar** 16 Nov 12:00: suhu 34 C (Berawan)
-- **Surabaya** 16 Nov 11:00: suhu 35 C (Cerah Berawan)
-- **Surabaya** 17 Nov 11:00: suhu 34 C (Hujan Ringan)
-- **Bandar Lampung** 16 Nov 12:00: suhu 34 C (Cerah Berawan)
+- **Surabaya** 18 Nov 14:00: angin 37 km/jam (Hujan Ringan)
+- **Surabaya** 19 Nov 14:00: angin 36 km/jam (Hujan Ringan)
+- **Surabaya** 17 Nov 14:00: angin 33 km/jam (Hujan Ringan)
+- **Surabaya** 19 Nov 11:00: angin 36 km/jam (Cerah Berawan)
+- **Kupang** 18 Nov 15:00: suhu 34 C (Hujan Petir)
+- **Surabaya** 17 Nov 11:00: suhu 34 C (Berawan)
 
 ## Gambar
 
-![total curah hujan 66 jam per kota](figures/01_curah_hujan_kota.png)
+![total curah hujan 63 jam per kota](figures/01_curah_hujan_kota.png)
 
 ![peta panas curah hujan harian](figures/02_heatmap_harian.png)
 
