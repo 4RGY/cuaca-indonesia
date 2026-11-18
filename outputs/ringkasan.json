@@ -1,17 +1,17 @@
 {
-  "dibuat_utc": "2026-11-17 03:59 UTC",
-  "periode_mulai": "17 Nov 2026",
-  "periode_selesai": "19 Nov 2026",
+  "dibuat_utc": "2026-11-18 02:57 UTC",
+  "periode_mulai": "18 Nov 2026",
+  "periode_selesai": "20 Nov 2026",
   "horizon_jam": 63,
   "jumlah_kota": 19,
-  "jumlah_slot": 391,
+  "jumlah_slot": 397,
   "terbasah": [
     "Bandung",
-    34.9
+    53.5
   ],
   "terkering": [
-    "Ambon",
-    0.0
+    "Jayapura",
+    3.6
   ],
   "terpanas": [
     "Surabaya",
@@ -21,6 +21,6 @@
     "Bandung",
     19.0
   ],
-  "kota_tanpa_hujan": 1,
-  "peringatan": 6
+  "kota_tanpa_hujan": 0,
+  "peringatan": 11
 }
