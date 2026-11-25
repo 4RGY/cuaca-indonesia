@@ -1,26 +1,26 @@
 {
-  "dibuat_utc": "2026-11-24 05:22 UTC",
-  "periode_mulai": "24 Nov 2026",
-  "periode_selesai": "26 Nov 2026",
+  "dibuat_utc": "2026-11-25 04:18 UTC",
+  "periode_mulai": "25 Nov 2026",
+  "periode_selesai": "27 Nov 2026",
   "horizon_jam": 60,
   "jumlah_kota": 19,
-  "jumlah_slot": 379,
+  "jumlah_slot": 388,
   "terbasah": [
     "Medan",
-    20.5
+    26.5
   ],
   "terkering": [
     "Ambon",
-    2.1
+    0.0
   ],
   "terpanas": [
-    "Surabaya",
-    34.0
+    "Semarang",
+    36.0
   ],
   "terdingin": [
     "Bandung",
     20.0
   ],
-  "kota_tanpa_hujan": 0,
-  "peringatan": 3
+  "kota_tanpa_hujan": 1,
+  "peringatan": 9
 }
