@@ -1,17 +1,17 @@
 {
-  "dibuat_utc": "2026-11-26 03:38 UTC",
-  "periode_mulai": "26 Nov 2026",
-  "periode_selesai": "28 Nov 2026",
+  "dibuat_utc": "2026-11-27 03:40 UTC",
+  "periode_mulai": "27 Nov 2026",
+  "periode_selesai": "29 Nov 2026",
   "horizon_jam": 63,
   "jumlah_kota": 19,
-  "jumlah_slot": 393,
+  "jumlah_slot": 391,
   "terbasah": [
-    "Bandung",
-    50.5
+    "Padang",
+    43.1
   ],
   "terkering": [
-    "Balikpapan",
-    2.2
+    "Denpasar",
+    0.6
   ],
   "terpanas": [
     "Kupang",
@@ -19,8 +19,8 @@
   ],
   "terdingin": [
     "Bandung",
-    19.0
+    20.0
   ],
   "kota_tanpa_hujan": 0,
-  "peringatan": 9
+  "peringatan": 2
 }
